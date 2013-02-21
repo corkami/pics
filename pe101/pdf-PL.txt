@@ -1,0 +1,17 @@
+InfoKey: Title
+InfoValue: PE 101 - Plik PE krok po kroku (version 1.1 PL)
+InfoKey: Subject
+InfoValue: Portable Executable
+InfoKey: Author
+InfoValue: Ange Albertini - http://corkami.com, Translation by Adam Blaszczyk and Gynvael Coldwind
+InfoKey: Keywords
+InfoValue: portable executable, coff, introduction, visite guidee, windows, binaire, executable, format de fichier
+InfoKey: Creator
+InfoValue: Inkscape
+InfoKey: Producer
+InfoValue: Cairo
+InfoKey: CreationDate
+InfoValue: D:20120408235921Z
+
+InfoKey: ModDate
+InfoValue: D:20120702031415Z

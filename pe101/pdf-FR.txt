@@ -1,0 +1,17 @@
+InfoKey: Title
+InfoValue: PE 101 - visite guidee d'un executable Windows (version 1 FR)
+InfoKey: Subject
+InfoValue: Introduction au format de fichier Portable Executable
+InfoKey: Author
+InfoValue: Ange Albertini - http://corkami.com
+InfoKey: Keywords
+InfoValue: portable executable, coff, introduction, visite guidee, windows, binaire, executable, format de fichier
+InfoKey: Creator
+InfoValue: Inkscape
+InfoKey: Producer
+InfoValue: Cairo
+InfoKey: CreationDate
+InfoValue: D:20120408235921Z
+
+InfoKey: ModDate
+InfoValue: D:20120520031415Z

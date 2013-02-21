@@ -1,0 +1,17 @@
+InfoKey: Title
+InfoValue: PE 101 - a windows executable walkthrough (version 1 KO)
+InfoKey: Subject
+InfoValue: Portable Executable
+InfoKey: Author
+InfoValue: Ange Albertini - http://corkami.com, Translation by Daniel Choi
+InfoKey: Keywords
+InfoValue: portable executable, coff, introduction, walkthrough, windows, binary, executable, file format
+InfoKey: Creator
+InfoValue: Inkscape
+InfoKey: Producer
+InfoValue: Cairo
+InfoKey: CreationDate
+InfoValue: D:20120408235921Z
+
+InfoKey: ModDate
+InfoValue: D:20120815031415Z
