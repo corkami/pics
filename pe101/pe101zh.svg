@@ -27,7 +27,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28222222"
+     inkscape:zoom="0.37024868"
      inkscape:cx="1052.3622"
      inkscape:cy="744.09448"
      inkscape:document-units="px"
@@ -3530,7 +3530,7 @@
          x="2341.0664"
          y="-1389.3085"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
-         id="tspan4530">文件映射到内存中的地址</tspan><tspan
+         id="tspan4530">文件映射到内存中的基地址</tspan><tspan
          sodipodi:role="line"
          x="2341.0664"
          y="-1376.8085"
@@ -5929,9 +5929,9 @@
        style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        y="-1459.5908"
-       x="1324.7953"
+       x="1349.0775"
        height="30.654737"
-       width="175.63553"
+       width="127.071"
        id="rect3735-5-3-2"
        style="opacity:0.75;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <text
@@ -5957,7 +5957,7 @@
          y="-1431.54"
          x="1412.619"
          id="tspan4622-7-1-3-8-7-0-1"
-         sodipodi:role="line">显示文件为新的二进制可执行文件（PE:32位）</tspan></text>
+         sodipodi:role="line">显示文件为新的二进制可执行文件</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4620-9"
@@ -6208,9 +6208,9 @@
        y="-1145.436" />
     <rect
        y="-1495.936"
-       x="1324.7596"
+       x="1349.4535"
        height="32.31842"
-       width="176.06294"
+       width="126.67529"
        id="rect3735-5-48"
        style="opacity:0.75;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <text
@@ -6236,7 +6236,7 @@
          y="-1467.54"
          x="1413.0348"
          id="tspan4622-7-1-3-8-7-0"
-         sodipodi:role="line">显示文件为二进制可执行文件（DOS:16位）</tspan></text>
+         sodipodi:role="line">显示文件为二进制可执行文件</tspan></text>
     <rect
        style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3735-8-4-0"
@@ -8110,7 +8110,7 @@
          sodipodi:role="line"
          x="2595.7065"
          y="-805.83765"
-         id="tspan4472">版本1，2013年6月26日</tspan></text>
+         id="tspan4472">版本1，2013年6月28日</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
