@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53487831"
-     inkscape:cx="526.18109"
-     inkscape:cy="372.04724"
+     inkscape:zoom="1.8880565"
+     inkscape:cx="853.46516"
+     inkscape:cy="25.239386"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -1911,16 +1911,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text3800-0-4-5-5-9-2-5-1"
-       y="-423.73984"
-       x="1609.3885"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       y="-426.388"
+       x="1606.3292"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
        xml:space="preserve"><tspan
          id="tspan3840-1-6-8-2-4-5-7"
-         y="-423.73984"
-         x="1609.3885"
-         sodipodi:role="line">v2.0lC, 10th June 2013</tspan><tspan
-         y="-416.23984"
-         x="1609.3885"
+         y="-426.388"
+         x="1606.3292"
+         sodipodi:role="line">v2.02lC, 15th JuLY 2013</tspan><tspan
+         y="-415.138"
+         x="1606.3292"
          sodipodi:role="line"
          id="tspan5318">Creative Commons 3.0 BY</tspan></text>
     <text
@@ -1940,22 +1940,5 @@
          x="1751.5519"
          sodipodi:role="line"
          id="tspan4123">corkami.com</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
-       x="1610.5721"
-       y="-448.94601"
-       id="text5313"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1610.5721"
-         y="-448.94601"
-         id="tspan5315"
-         style="font-size:6px">This is the whole file, however, most PE files contain more elements.</tspan><tspan
-         sodipodi:role="line"
-         x="1610.5721"
-         y="-441.44601"
-         style="font-size:6px"
-         id="tspan4996">Explanations are simplified, for conciseness.</tspan></text>
   </g>
 </svg>
