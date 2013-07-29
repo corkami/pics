@@ -27,7 +27,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30931095"
+     inkscape:zoom="0.3246867"
      inkscape:cx="944.03381"
      inkscape:cy="672.95642"
      inkscape:document-units="px"
@@ -37,7 +37,7 @@
      showborder="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true"
@@ -55,10 +55,10 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="false"
-     inkscape:window-width="1050"
-     inkscape:window-height="1658"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="996"
+     inkscape:window-height="855"
+     inkscape:window-x="1060"
+     inkscape:window-y="671"
      inkscape:window-maximized="1"
      width="2084.72px"
      inkscape:showpageshadow="true"
@@ -1908,17 +1908,17 @@
        sodipodi:linespacing="125%"
        id="text3488"
        y="-1723.5385"
-       x="2588.4446"
+       x="2526.4446"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
        xml:space="preserve"><tspan
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
          y="-1723.5385"
-         x="2588.4446"
+         x="2526.4446"
          sodipodi:role="line"
          id="tspan3519">Ange Albertini</tspan><tspan
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
          y="-1693.5385"
-         x="2588.4446"
+         x="2526.4446"
          sodipodi:role="line"
          id="tspan4123">corkami.com</tspan></text>
     <text
@@ -5423,5 +5423,13 @@
        id="path5258"
        d="m 977.21876,-1380.436 26.91814,-18.4917 212.9599,0 54.5138,-97.491 282.005,-0.5353 78.0002,-171.1347 947.7598,0"
        style="color:#000000;fill:none;stroke:#808080;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <image
+       sodipodi:absref="c:\corkami\trunk\doc\pe101\../../../trunk/corkami_maure_xbr2.png"
+       xlink:href="../../../trunk/corkami_maure_xbr2.png"
+       width="57.759251"
+       height="57.759251"
+       id="image4104"
+       x="2531.4744"
+       y="-1750.8938" />
   </g>
 </svg>

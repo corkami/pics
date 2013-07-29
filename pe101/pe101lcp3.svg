@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8880565"
-     inkscape:cx="853.46516"
-     inkscape:cy="25.239386"
+     inkscape:zoom="0.58729101"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -59,10 +59,11 @@
      inkscape:window-height="898"
      inkscape:window-x="1034"
      inkscape:window-y="567"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      width="2084.72px"
      inkscape:showpageshadow="true"
-     borderlayer="true">
+     borderlayer="true"
+     inkscape:snap-page="true">
     <inkscape:grid
        id="grid13734"
        type="xygrid"
@@ -1940,5 +1941,13 @@
          x="1751.5519"
          sodipodi:role="line"
          id="tspan4123">corkami.com</tspan></text>
+    <image
+       sodipodi:absref="c:\corkami\trunk\doc\pe101\../../../trunk/corkami_maure_xbr2.png"
+       xlink:href="../../../trunk/corkami_maure_xbr2.png"
+       width="138.91141"
+       height="138.91141"
+       id="image3351"
+       x="1617.4647"
+       y="-600.24548" />
   </g>
 </svg>
