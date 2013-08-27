@@ -1,5 +1,5 @@
 InfoKey: Title
-InfoValue: PE 102 - a Windows executable format overview (version 1)
+InfoValue: PE 102 - a Windows executable format overview (version 1.01)
 InfoKey: Subject
 InfoValue: the Portable Executable file format structure
 InfoKey: Author
@@ -14,4 +14,4 @@ InfoKey: CreationDate
 InfoValue: D:20100125235921Z
 
 InfoKey: ModDate
-InfoValue: D:20130730031415Z
+InfoValue: D:20130827031415Z

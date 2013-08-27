@@ -52,13 +52,13 @@
      inkscape:snap-center="false"
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="false"
-     inkscape:zoom="0.41525628"
-     inkscape:cx="372.04724"
-     inkscape:cy="526.18109"
+     inkscape:zoom="1.2937701"
+     inkscape:cx="582.24428"
+     inkscape:cy="334.22947"
      inkscape:window-width="1680"
-     inkscape:window-height="1028"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1050"
+     inkscape:window-x="1042"
+     inkscape:window-y="299"
      inkscape:snap-page="false">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
@@ -2216,7 +2216,9 @@
    id="tspan5510"
    style="font-size:6px"><tspan
    style="fill:url(#linearGradient5914)"
-   id="tspan5842">46+2</tspan> 46+2 </tspan>DllCharacteristics</tspan><tspan
+   id="tspan5842">46+2</tspan> 46+2 </tspan>DllCharacteristics<tspan
+   style="font-size:4px;fill:url(#linearGradient5914)"
+   id="tspan3627"> NX, AppContainer, integrity, GuardCF...</tspan></tspan><tspan
              style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
              id="tspan2555"
              y="293.39587"
@@ -2444,7 +2446,7 @@
    id="tspan5488"
    style="font-size:6px">A </tspan>LOAD_CONFIG <tspan
    id="tspan3997"
-   style="font-size:6px;fill:#808080">SafeSEH</tspan></tspan><tspan
+   style="font-size:6px;fill:#808080">SafeSEH, GlobalFlags...</tspan></tspan><tspan
              style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
              id="tspan3485-1"
              y="486.6062"
@@ -2680,7 +2682,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc"
          id="path3630"
-         d="m 255.40406,476.15444 180.77994,0"
+         d="m 305.40406,476.15444 130.77994,0"
          style="color:#000000;fill:none;stroke:url(#linearGradient5914);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          style="color:#000000;fill:none;stroke:url(#linearGradient5914);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -2714,11 +2716,11 @@
          y="128.3582">Headers</tspan><tspan
          sodipodi:role="line"
          x="201.66109"
-         y="188.3582"
+         y="198.3582"
          id="tspan3690">&amp;</tspan><tspan
          sodipodi:role="line"
          x="201.66109"
-         y="248.3582"
+         y="268.35822"
          id="tspan5124">Sections</tspan></text>
     <g
        id="g6336"
