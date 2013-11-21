@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="elf101-p2layout.svg"
+   inkscape:export-filename="elf101.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.77073353"
+     inkscape:cx="575.76406"
+     inkscape:cy="409.28441"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     showborder="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     width="1052.36px"
+     inkscape:showpageshadow="true"
+     borderlayer="true">
+    <inkscape:grid
+       id="grid13734"
+       type="xygrid"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1934.7244,874.61796"
+       id="guide3809" />
+  </sodipodi:namedview>
+  <title
+     id="title3725">ELF 101 - a Linux executable walkthrough v1.0a</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5241"
+       osb:paint="solid"
+       gradientTransform="translate(7.7617187e-5,168.72996)">
+      <stop
+         style="stop-color:#ff4a01;stop-opacity:1;"
+         offset="0"
+         id="stop5243" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5235"
+       osb:paint="solid"
+       gradientTransform="translate(146.00021,383.70324)">
+      <stop
+         style="stop-color:#c8c600;stop-opacity:1;"
+         offset="0"
+         id="stop5237" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5229"
+       osb:paint="solid"
+       gradientTransform="translate(-11.999948,112.48664)">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop5231" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5209"
+       osb:paint="solid"
+       gradientTransform="translate(3685.8298,-3722.2215)">
+      <stop
+         style="stop-color:#4141ff;stop-opacity:1;"
+         offset="0"
+         id="stop5211" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4447"
+       osb:paint="solid"
+       gradientTransform="translate(673.99494,-1069.1493)">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4449" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8415"
+       osb:paint="solid"
+       gradientTransform="translate(1420.0277,-3749.1784)">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0"
+         id="stop8417" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ELF 101 - a Linux executable walkthrough v1.0a</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ange Albertini</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://corkami.com</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>ELF</rdf:li>
+            <rdf:li>Executable and Linkable Format</rdf:li>
+            <rdf:li>linux</rdf:li>
+            <rdf:li>walkthrough</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>2013</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:description />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="default"
+     transform="translate(-710.01392,1148.6164)">
+    <text
+       sodipodi:linespacing="150%"
+       id="text7556"
+       y="-959.9328"
+       x="1359.9611"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       xml:space="preserve"><tspan
+         id="tspan7560"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-959.9328"
+         x="1359.9611"
+         sodipodi:role="line">01 00 00 00 00 00 00 00 00 00 00 08 00 00 00 08  ................</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-947.9328"
+         x="1359.9611"
+         sodipodi:role="line"
+         id="tspan6185">A0 00 00 00 A0 00 00 00 05 00 00 00 00 00 00 00  ................</tspan></text>
+    <text
+       id="text2816-1-6-8"
+       y="-917.61615"
+       x="1091.5607"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       xml:space="preserve"><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-917.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6715">7F 45 4C 46 01 01 01 00 00 00 00 00 00 00 00 00  ELF............</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-910.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6007">02 00 03 00 01 00 00 00 60 00 00 08 40 00 00 00  ........`...@...</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-902.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6009">C0 00 00 00 00 00 00 00 34 00 20 00 01 00 28 00  À.......4.....(.</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-895.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6011">04 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-887.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6013" /><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-880.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6015">01 00 00 00 00 00 00 00 00 00 00 08 00 00 00 08  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-872.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6017">A0 00 00 00 A0 00 00 00 05 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-865.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6019" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;display:inline;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       x="1358.588"
+       y="-630.50323"
+       id="text7668"><tspan
+         sodipodi:role="line"
+         x="1358.588"
+         y="-630.50323"
+         id="tspan7670"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         id="tspan7672"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-620.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         id="tspan7674"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-610.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">00 00 00 00 00 00 00 00 0B 00 00 00 01 00 00 00  ................</tspan><tspan
+         id="tspan7676"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-600.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">06 00 00 00 60 00 00 08 60 00 00 00 22 00 00 00  ....`...`...&quot;...</tspan><tspan
+         id="tspan7678"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-590.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         id="tspan7680"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-580.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">11 00 00 00 01 00 00 00 02 00 00 00 90 00 00 08  ................</tspan><tspan
+         id="tspan7682"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-570.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">90 00 00 00 0D 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         id="tspan7684"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-560.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">00 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00  ................</tspan><tspan
+         id="tspan7686"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-550.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">00 00 00 00 00 00 00 00 A0 00 00 00 19 00 00 00  ................</tspan><tspan
+         id="tspan7688"
+         sodipodi:role="line"
+         x="1358.588"
+         y="-540.50323"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text6218"
+       y="-721.9328"
+       x="1359.9611"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-721.9328"
+         x="1359.9611"
+         sodipodi:role="line"
+         id="tspan6220">00 2E 73 68 73 74 72 74 61 62 00 2E 74 65 78 74  ..shstrtab..text</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-709.9328"
+         x="1359.9611"
+         sodipodi:role="line"
+         id="tspan6222">00 2E 72 6F 64 61 74 61 00 00 00 00 00 00 00 00  ..rodata........</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       x="1359.9611"
+       y="-763.9328"
+       id="text6199"
+       sodipodi:linespacing="150%"><tspan
+         id="tspan6207"
+         sodipodi:role="line"
+         x="1359.9611"
+         y="-763.9328"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">48 65 6C 6C 6F 20 57 6F 72 6C 64 21 0A 00 00 00  Hello.World!....</tspan></text>
+    <text
+       id="text7366"
+       y="-1008.6907"
+       x="1358.588"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-1008.6907"
+         x="1358.588"
+         sodipodi:role="line"
+         id="tspan4322">7F 45 4C 46 01 01 01 00 00 00 00 00 00 00 00 00  ELF............</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-998.69073"
+         x="1358.588"
+         sodipodi:role="line"
+         id="tspan6177">02 00 03 00 01 00 00 00 60 00 00 08 40 00 00 00  ........`...@...</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-988.69073"
+         x="1358.588"
+         sodipodi:role="line"
+         id="tspan6179">C0 00 00 00 00 00 00 00 34 00 20 00 01 00 28 00  À.......4.....(.</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-978.69073"
+         x="1358.588"
+         sodipodi:role="line"
+         id="tspan6181">04 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan></text>
+    <text
+       id="text6039"
+       y="-705.61615"
+       x="1091.5607"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       xml:space="preserve"><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-705.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan3688">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-698.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6144">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-690.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6146">00 00 00 00 00 00 00 00 0B 00 00 00 01 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-683.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6148">06 00 00 00 60 00 00 08 60 00 00 00 22 00 00 00  ....`...`...&quot;...</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-675.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6150">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-668.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6152">11 00 00 00 01 00 00 00 02 00 00 00 90 00 00 08  ...............</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-660.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6154">90 00 00 00 0D 00 00 00 00 00 00 00 00 00 00 00  ...............</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-653.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6156">00 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-645.61615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6158">00 00 00 00 00 00 00 00 A0 00 00 00 19 00 00 00  ........ .......</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-638.11615"
+         x="1091.5607"
+         sodipodi:role="line"
+         id="tspan6161">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       x="1091.5607"
+       y="-817.61615"
+       id="text6021"><tspan
+         id="tspan6037"
+         sodipodi:role="line"
+         x="1091.5607"
+         y="-817.61615"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R">B9 90 00 00 08 BA 0D 00 00 00 BB 01 00 00 00 B8  ¹....º....»....¸</tspan><tspan
+         sodipodi:role="line"
+         x="1091.5607"
+         y="-810.11615"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         id="tspan6092">04 00 00 00 CD 80 BB 01 00 00 00 B8 01 00 00 00  ....Í€»....¸....</tspan><tspan
+         sodipodi:role="line"
+         x="1091.5607"
+         y="-802.61615"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         id="tspan6094">CD 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00  Í€..............</tspan><tspan
+         sodipodi:role="line"
+         x="1091.5607"
+         y="-795.11615"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         id="tspan6096" /><tspan
+         sodipodi:role="line"
+         x="1091.5607"
+         y="-787.61615"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         id="tspan6107">48 65 6C 6C 6F 20 57 6F 72 6C 64 21 0A 00 00 00  Hello.World!....</tspan><tspan
+         sodipodi:role="line"
+         x="1091.5607"
+         y="-780.11615"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         id="tspan3819" /><tspan
+         sodipodi:role="line"
+         x="1091.5607"
+         y="-772.61615"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         id="tspan3823">00 2E 73 68 73 74 72 74 61 62 00 2E 74 65 78 74  ..shstrtab..text</tspan><tspan
+         sodipodi:role="line"
+         x="1091.5607"
+         y="-765.11615"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         id="tspan3821">00 2E 72 6F 64 61 74 61 00 00 00 00 00 00 00 00  ..rodata........</tspan></text>
+    <text
+       id="text2816-1-6"
+       y="-884.52985"
+       x="847.58246"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       xml:space="preserve"><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-884.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan5758">7F 45 4C 46 01 01 01 00 00 00 00 00 00 00 00 00  ELF............</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-877.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3965">02 00 03 00 01 00 00 00 60 00 00 08 40 00 00 00  ........`...@...</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-869.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3967">C0 00 00 00 00 00 00 00 34 00 20 00 01 00 28 00  À.......4.....(.</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-862.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3969">04 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-854.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3971" /><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-847.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan4020">01 00 00 00 00 00 00 00 00 00 00 08 00 00 00 08  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-839.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3973">50 00 00 00 50 00 00 00 05 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-832.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3975" /><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-824.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan4012">B9 90 00 00 08 BA 0D 00 00 00 BB 01 00 00 00 B8  ¹....º....»....¸</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-817.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3977">04 00 00 00 CD 80 BB 01 00 00 00 B8 01 00 00 00  ....Í€»....¸....</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-809.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3979">CD 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00  Í€..............</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-802.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3981" /><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-794.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan4008">48 65 6C 6C 6F 20 57 6F 72 6C 64 21 0A 00 00 00  Hello.World!....</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-787.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3983" /><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-779.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan4010">00 2E 73 68 73 74 72 74 61 62 00 2E 74 65 78 74  ..shstrtab..text</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-772.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3985">00 2E 72 6F 64 61 74 61 00 00 00 00 00 00 00 00  ..rodata........</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-764.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3987" /><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-757.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan5635">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-749.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3989">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-742.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3991">00 00 00 00 00 00 00 00 0B 00 00 00 01 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-734.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3993">06 00 00 00 60 00 00 08 60 00 00 00 22 00 00 00  ....`...`...&quot;...</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-727.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3995">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-719.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan3998">11 00 00 00 01 00 00 00 02 00 00 00 90 00 00 08  ...............</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-712.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan4000">90 00 00 00 0D 00 00 00 00 00 00 00 00 00 00 00  ...............</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-704.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan4002">00 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00  ................</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-697.02985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan4004">00 00 00 00 00 00 00 00 A0 00 00 00 19 00 00 00  ........ .......</tspan><tspan
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-689.52985"
+         x="847.58246"
+         sodipodi:role="line"
+         id="tspan4006">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text7562"
+       y="-825.9328"
+       x="1359.9611"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       xml:space="preserve"><tspan
+         id="tspan7568"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-825.9328"
+         x="1359.9611"
+         sodipodi:role="line">B9 90 00 00 08 BA 0D 00 00 00 BB 01 00 00 00 B8  ¹....º....»....¸</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-813.9328"
+         x="1359.9611"
+         sodipodi:role="line"
+         id="tspan6193">04 00 00 00 CD 80 BB 01 00 00 00 B8 01 00 00 00  ....Í€»....¸....</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-801.9328"
+         x="1359.9611"
+         sodipodi:role="line"
+         id="tspan6195">CD 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00  Í€..............</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+         y="-789.9328"
+         x="1359.9611"
+         sodipodi:role="line"
+         id="tspan6197" /></text>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3735-81-0"
+       width="152.50519"
+       height="52.318947"
+       x="1119.9047"
+       y="-822.14655" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3735-0"
+       width="156.85876"
+       height="59.589806"
+       x="1117.006"
+       y="-926.4549" />
+    <rect
+       y="-731.211"
+       x="1429.3418"
+       height="23.773346"
+       width="136.83994"
+       id="rect3735-5-4-5"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7-3-5"
+       y="-711.86469"
+       x="1498.2668"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-711.86469"
+         x="1498.2668"
+         id="tspan4622-7-3-7"
+         sodipodi:role="line">Sections' names</tspan></text>
+    <rect
+       y="-831.69342"
+       x="1450.5048"
+       height="32.766247"
+       width="100.99728"
+       id="rect3735-5-3-0-28"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7-3-5-1"
+       y="-815.17462"
+       x="1501.9756"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-815.17462"
+         x="1501.9756"
+         sodipodi:role="line"
+         id="tspan4403">Code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="1501.9247"
+       y="-803.53424"
+       id="text4620-7-32-1-9-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1501.9247"
+         y="-803.53424"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         id="tspan10363-8">executable information</tspan></text>
+    <rect
+       y="-969.9201"
+       x="1398.2577"
+       height="28.745802"
+       width="199.6772"
+       id="rect3735-5-3-2"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7-3-5-2-0-6"
+       y="-952.9223"
+       x="1496.9023"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-952.9223"
+         x="1496.9023"
+         id="tspan4622-7-3-7-3-2-1"
+         sodipodi:role="line">Program Header table</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7-32-1-9-6-6-1"
+       y="-943.44513"
+       x="1497.7676"
+       style="font-size:11.88888073px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-943.44513"
+         x="1497.7676"
+         id="tspan4622-7-1-3-8-7-0-1"
+         sodipodi:role="line">Execution information</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text4620-3"
+       y="-882.27545"
+       x="1196.0004"
+       style="font-size:71.27302551px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-882.27545"
+         x="1197.3646"
+         sodipodi:role="line"
+         id="tspan3827">technical details for </tspan><tspan
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-871.27545"
+         x="1196.0004"
+         sodipodi:role="line"
+         id="tspan3834">identification and execution</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620"
+       y="-894.27545"
+       x="1196.6893"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-894.27545"
+         x="1196.6893"
+         id="tspan4622"
+         sodipodi:role="line">Header</tspan></text>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999982;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3735-1-6"
+       width="202.45198"
+       height="29"
+       x="1396.7858"
+       y="-596.31024" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7-32"
+       y="-570.56549"
+       x="1498.2501"
+       style="font-size:11.88888073px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-570.56549"
+         x="1498.2501"
+         id="tspan4622-7-1"
+         sodipodi:role="line">Linking (connecting program objects) information</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7"
+       y="-579.56537"
+       x="1497.9728"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-579.56537"
+         x="1497.9728"
+         id="tspan4622-7"
+         sodipodi:role="line">Section Header table</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-98"
+       y="-790.23077"
+       x="1196.665"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-790.23077"
+         x="1196.665"
+         id="tspan4622-9"
+         sodipodi:role="line">sections</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:71.27302551px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="1196.1357"
+       y="-775.23956"
+       id="text4620-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4622-4-2"
+         x="1196.1357"
+         y="-775.23956"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular">contents of the executable</tspan></text>
+    <rect
+       y="-780.49066"
+       x="1446.0443"
+       height="30.379614"
+       width="103.79049"
+       id="rect3735-5-3-0-2-0"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7-32-1-9-6"
+       y="-754.25299"
+       x="1498.1785"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-754.25299"
+         x="1498.1785"
+         id="tspan4622-7-1-3-8-7"
+         sodipodi:role="line">information used by the code</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7-3-5-2"
+       y="-764.5545"
+       x="1498.2229"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-764.5545"
+         x="1498.2229"
+         id="tspan4622-7-3-7-3"
+         sodipodi:role="line">Data</tspan></text>
+    <rect
+       y="-1015.0381"
+       x="1440.207"
+       height="36.638309"
+       width="116.13465"
+       id="rect3735-5-48"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-7-3-5-2-0"
+       y="-996.51215"
+       x="1497.6721"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-996.51215"
+         x="1497.6721"
+         sodipodi:role="line"
+         id="tspan4399">ELF header</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text4620-7-32-1-9-6-6"
+       y="-986.87177"
+       x="1498.1833"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-986.87177"
+         x="1498.1833"
+         id="tspan4622-7-1-3-8-7-0"
+         sodipodi:role="line">identify as an ELF type</tspan><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-978.87177"
+         x="1498.1833"
+         sodipodi:role="line"
+         id="tspan3873">specify the architecture</tspan></text>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3735-8-9"
+       width="183.66156"
+       height="65.010292"
+       x="855.51538"
+       y="-821.78326" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4620-9"
+       y="-756.19238"
+       x="978.31018"
+       style="font-size:42px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Lucida Console;-inkscape-font-specification:Lucida Console"
+       xml:space="preserve"
+       transform="scale(0.96863942,1.0323759)"><tspan
+         style="font-size:42px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-756.19238"
+         x="978.31018"
+         id="tspan4622-6"
+         sodipodi:role="line">simple.elf</tspan></text>
+    <a
+       id="a6399-2"
+       xlink:href="http://pe101.corkami.com"
+       xlink:title="download simple.exe"
+       transform="matrix(1,0,0,1.0658001,2029.2563,-1366.3775)"
+       style="display:inline">
+      <text
+         sodipodi:linespacing="125%"
+         id="text6391-0"
+         y="565.66833"
+         x="-1081.8097"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         xml:space="preserve"><tspan
+           y="565.66833"
+           x="-1081.8097"
+           id="tspan6393-0"
+           sodipodi:role="line"
+           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000080;fill-opacity:1;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular">download @ elf101.corkami.com</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:12.38851166px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="978.23328"
+       y="-746.5741"
+       id="text6391"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96863942,1.0323759)"><tspan
+         style="font-size:6.19425583px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         sodipodi:role="line"
+         id="tspan6393"
+         x="978.23328"
+         y="-746.5741">SHA-1: 67259687b87b749b13fd59b0344a5890ebcadc3b</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1014.392,-957.85986 47.9753,58.0492 26.9181,-30.4912 212.9599,0 54.5138,-91.49104 405.2976,-0.5353"
+       id="rect6547-7-1-2-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       y="-702.4549"
+       x="1117.5017"
+       height="59.589806"
+       width="157.04399"
+       id="rect5448"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-size:71.27302551px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="1196.2943"
+       y="-656.50311"
+       id="text5452"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5454"
+         x="1196.2943"
+         y="-656.50311"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular">technical details for linking</tspan><tspan
+         sodipodi:role="line"
+         x="1196.2943"
+         y="-645.50311"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         id="tspan3894">(ignored for execution)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="1196.5724"
+       y="-668.01288"
+       id="text5456"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5460"
+         x="1196.5724"
+         y="-668.01288"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular">header</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="808.99927"
+       y="-1051.3513"
+       id="text4804"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4806"
+         x="808.99927"
+         y="-1051.3513">Dissected file</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1762.0567,-692.91366 -405.5131,-0.5511 -54.2983,-67.1801 -212.9599,0.039 -26.9067,-4.7853 26.9067,49.4039 212.9536,-0.092 55.02,71.2691 404.7977,0.177"
+       id="rect3735-5-8-8-9-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1762.0567,-787.89256 -405.2976,0 -54.5201,-8.8012"
+       id="rect3735-5-8-8-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path7491"
+       d="m 1762.0567,-972.37486 -405.2976,0 -54.6448,82.9843"
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
+       x="835.36273"
+       y="-890.52985"
+       id="text4014"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4016"
+         x="835.36273"
+         y="-890.52985">000:</tspan><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-883.02985"
+         id="tspan5651" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-875.52985"
+         id="tspan4022" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-868.02985"
+         id="tspan4024" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-860.52985"
+         id="tspan4026" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-853.02985"
+         id="tspan4030">040:</tspan><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-845.52985"
+         id="tspan5581" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-838.02985"
+         id="tspan5589" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-830.52985"
+         id="tspan5585">060:</tspan><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-823.02985"
+         id="tspan5593" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-815.52985"
+         id="tspan5595" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-808.02985"
+         id="tspan5597" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-800.52985"
+         id="tspan5577">090:</tspan><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-793.02985"
+         id="tspan5611" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-785.52985"
+         id="tspan5613">0a0:</tspan><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-778.02985"
+         id="tspan5615" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-770.52985"
+         id="tspan5617" /><tspan
+         sodipodi:role="line"
+         x="835.36273"
+         y="-763.02985"
+         id="tspan5633">0A0:</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path3748"
+       d="m 881.84516,-957.59166 -50.68185,57.6043 0,221 231.20399,0.177 26.9181,46.8229 213.0884,2e-4 54.8853,101.1771 404.7976,0"
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4567"
+       d="m 1762.0567,-845.23326 -405.2976,0 -54.5138,15.2348 -212.9599,0 -26.9067,-4.9623 26.9067,-30.4298 212.9599,0 54.5138,-73.8427 405.2976,0"
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4625"
+       d="m 1762.0567,-741.89256 -405.2976,0 -54.5201,-38.8012"
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3761"
+       width="132.54695"
+       height="75.323273"
+       x="881.84515"
+       y="-1007.2534" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="891.82275"
+       y="-990.54364"
+       id="text3879"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         id="tspan3881"
+         x="891.82275"
+         y="-990.54364">~$uname -p</tspan><tspan
+         sodipodi:role="line"
+         x="891.82275"
+         y="-972.94366"
+         id="tspan3883">i686</tspan><tspan
+         sodipodi:role="line"
+         x="891.82275"
+         y="-955.34363"
+         id="tspan3889">~$./simple.elf </tspan><tspan
+         sodipodi:role="line"
+         x="891.82275"
+         y="-937.74365"
+         id="tspan3893">Hello World!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="1262.6893"
+       y="-914.77448"
+       id="text3875"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3877"
+         x="1262.6893"
+         y="-914.77448"
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular">1/2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3887"
+       y="-688.77448"
+       x="1262.6893"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       xml:space="preserve"><tspan
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         y="-688.77448"
+         x="1262.6893"
+         id="tspan3890"
+         sodipodi:role="line">2/2</tspan></text>
+  </g>
+</svg>
