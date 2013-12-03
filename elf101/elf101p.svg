@@ -1428,7 +1428,7 @@
          y="-466.36929"
          x="2603.5481"
          sodipodi:role="line"
-         id="tspan5318">version 1.0a</tspan><tspan
+         id="tspan5318">version 1.0b</tspan><tspan
          y="-450.36929"
          x="2603.5481"
          sodipodi:role="line"
@@ -3383,7 +3383,7 @@
          sodipodi:role="line"
          x="896.61902"
          y="-1309.0504"
-         id="tspan5613">0a0:</tspan><tspan
+         id="tspan5613">0A0:</tspan><tspan
          sodipodi:role="line"
          x="896.61902"
          y="-1301.5504"
@@ -3395,7 +3395,7 @@
          sodipodi:role="line"
          x="896.61902"
          y="-1286.5504"
-         id="tspan5633">0A0:</tspan></text>
+         id="tspan5633">0C0:</tspan></text>
     <path
        sodipodi:nodetypes="cccccccccc"
        inkscape:connector-curvature="0"
@@ -4141,7 +4141,7 @@
          sodipodi:role="line"
          id="tspan3881"
          x="953.07904"
-         y="-1514.0642">~$uname -p</tspan><tspan
+         y="-1514.0642">~$uname -m</tspan><tspan
          sodipodi:role="line"
          x="953.07904"
          y="-1496.4642"

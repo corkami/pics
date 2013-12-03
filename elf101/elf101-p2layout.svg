@@ -1067,7 +1067,7 @@
          sodipodi:role="line"
          x="835.36273"
          y="-785.52985"
-         id="tspan5613">0a0:</tspan><tspan
+         id="tspan5613">0A0:</tspan><tspan
          sodipodi:role="line"
          x="835.36273"
          y="-778.02985"
@@ -1079,7 +1079,7 @@
          sodipodi:role="line"
          x="835.36273"
          y="-763.02985"
-         id="tspan5633">0A0:</tspan></text>
+         id="tspan5633">0C0:</tspan></text>
     <path
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
@@ -1115,7 +1115,7 @@
          sodipodi:role="line"
          id="tspan3881"
          x="891.82275"
-         y="-990.54364">~$uname -p</tspan><tspan
+         y="-990.54364">~$uname -m</tspan><tspan
          sodipodi:role="line"
          x="891.82275"
          y="-972.94366"
