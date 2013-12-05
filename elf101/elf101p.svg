@@ -18,8 +18,8 @@
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="elf101p.svg"
    inkscape:export-filename="elf101p.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-xdpi="399.98587"
+   inkscape:export-ydpi="399.98587">
   <sodipodi:namedview
      id="base"
      pagecolor="#fafafa"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30840776"
-     inkscape:cx="1060.6657"
-     inkscape:cy="730.95184"
+     inkscape:zoom="0.2936455"
+     inkscape:cx="1052.3622"
+     inkscape:cy="744.09448"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -55,11 +55,11 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="998"
-     inkscape:window-x="1672"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="976"
+     inkscape:window-height="808"
+     inkscape:window-x="2029"
+     inkscape:window-y="204"
+     inkscape:window-maximized="0"
      width="1052.36px"
      inkscape:showpageshadow="true"
      borderlayer="true">
@@ -1121,7 +1121,7 @@
          x="1563.181"
          y="-1327.0548"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
-         id="tspan10363-8">Executable information</tspan></text>
+         id="tspan10363-8">executable information</tspan></text>
     <rect
        y="-1493.4407"
        x="1459.514"
@@ -1152,7 +1152,7 @@
          y="-1466.9657"
          x="1559.0239"
          id="tspan4622-7-1-3-8-7-0-1"
-         sodipodi:role="line">Execution information</tspan></text>
+         sodipodi:role="line">execution information</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text4620-3"
@@ -1164,7 +1164,7 @@
          y="-1405.796"
          x="1258.7928"
          sodipodi:role="line"
-         id="tspan3827">Technical details for </tspan><tspan
+         id="tspan3827">technical details for </tspan><tspan
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
          y="-1394.796"
          x="1257.2567"
@@ -1175,13 +1175,13 @@
        id="text4620"
        y="-1417.796"
        x="1257.9457"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:38px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        xml:space="preserve"><tspan
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+         style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
          y="-1417.796"
          x="1257.9457"
          id="tspan4622"
-         sodipodi:role="line">header</tspan></text>
+         sodipodi:role="line">Header</tspan></text>
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3735-1-6"
@@ -1200,7 +1200,7 @@
          y="-1094.0861"
          x="1559.5065"
          id="tspan4622-7-1"
-         sodipodi:role="line">Linking (connecting program objects) information</tspan></text>
+         sodipodi:role="line">linking (connecting program objects) information</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4620-7"
@@ -1220,11 +1220,11 @@
        x="1257.9214"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        xml:space="preserve"><tspan
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+         style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
          y="-1313.7513"
          x="1257.9214"
          id="tspan4622-9"
-         sodipodi:role="line">sections</tspan></text>
+         sodipodi:role="line">Sections</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:71.27302551px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
@@ -1236,7 +1236,7 @@
          id="tspan4622-4-2"
          x="1257.3921"
          y="-1298.7601"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Contents of the executable</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">contents of the executable</tspan></text>
     <rect
        y="-1304.0112"
        x="1503.3859"
@@ -1255,7 +1255,7 @@
          y="-1277.7736"
          x="1559.4348"
          id="tspan4622-7-1-3-8-7"
-         sodipodi:role="line">Information used by the code</tspan></text>
+         sodipodi:role="line">information used by the code</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4620-7-3-5-2"
@@ -1675,7 +1675,7 @@
          x="2103.0537"
          y="-543.57813"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
-         id="tspan3932">- Microcontrollers from Atmel, Texas Instruments</tspan></text>
+         id="tspan3932">- microcontrollers from Atmel, Texas Instruments</tspan></text>
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3735-8-9"
@@ -1782,7 +1782,7 @@
          id="tspan5454"
          x="1257.5507"
          y="-1180.0237"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Technical details for linking</tspan><tspan
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">technical details for linking</tspan><tspan
          sodipodi:role="line"
          x="1257.5507"
          y="-1169.0237"
@@ -1790,7 +1790,7 @@
          id="tspan3894">(ignored for execution)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:38px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1257.8287"
        y="-1191.5334"
        id="text5456"
@@ -1799,7 +1799,7 @@
          id="tspan5460"
          x="1257.8287"
          y="-1191.5334"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">header</tspan></text>
+         style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Header</tspan></text>
     <text
        transform="scale(1.014333,0.98586954)"
        sodipodi:linespacing="125%"
@@ -4134,24 +4134,24 @@
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-       x="953.07904"
+       x="949.07904"
        y="-1514.0642"
        id="text3879"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
          id="tspan3881"
-         x="953.07904"
-         y="-1514.0642">~$uname -m</tspan><tspan
+         x="949.07904"
+         y="-1514.0642">~$ uname -m</tspan><tspan
          sodipodi:role="line"
-         x="953.07904"
+         x="949.07904"
          y="-1496.4642"
          id="tspan3883">i686</tspan><tspan
          sodipodi:role="line"
-         x="953.07904"
+         x="949.07904"
          y="-1478.8643"
-         id="tspan3889">~$./simple.elf </tspan><tspan
+         id="tspan3889">~$ ./simple.elf </tspan><tspan
          sodipodi:role="line"
-         x="953.07904"
+         x="949.07904"
          y="-1461.2642"
          id="tspan3893">Hello World!</tspan></text>
     <text
@@ -4192,25 +4192,25 @@
          sodipodi:role="line">5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1323.9457"
-       y="-1440.295"
+       y="-1440.7094"
        id="text3875"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3877"
          x="1323.9457"
-         y="-1440.295"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">1/2</tspan></text>
+         y="-1440.7094"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">1/2</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3887"
-       y="-1214.295"
+       y="-1214.9165"
        x="1323.9457"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        xml:space="preserve"><tspan
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
-         y="-1214.295"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+         y="-1214.9165"
          x="1323.9457"
          id="tspan3890"
          sodipodi:role="line">2/2</tspan></text>
@@ -4632,5 +4632,17 @@
          x="1217.881"
          y="-1805.056"
          style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">&amp;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="261.36856"
+       y="410.33377"
+       id="text3895"
+       sodipodi:linespacing="110%"
+       transform="translate(710.01392,-1892.7109)"><tspan
+         sodipodi:role="line"
+         id="tspan3897"
+         x="261.36856"
+         y="410.33377"> </tspan></text>
   </g>
 </svg>
