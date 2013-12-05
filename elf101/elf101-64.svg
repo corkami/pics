@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="elf101-64.svg"
-   inkscape:export-filename="elf101.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   inkscape:export-filename="elf101-64.png"
+   inkscape:export-xdpi="399.98953"
+   inkscape:export-ydpi="399.98953">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6733976"
-     inkscape:cx="309.89747"
-     inkscape:cy="1110.1822"
+     inkscape:zoom="0.2936455"
+     inkscape:cx="1052.3622"
+     inkscape:cy="744.09448"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -55,11 +55,11 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="false"
-     inkscape:window-width="939"
-     inkscape:window-height="713"
-     inkscape:window-x="2188"
-     inkscape:window-y="253"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      width="1052.36px"
      inkscape:showpageshadow="true"
      borderlayer="true">
@@ -1329,13 +1329,13 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
        xml:space="preserve"><tspan
          y="-486.36929"
-         x="2607.5168"
+         x="2603.5481"
          sodipodi:role="line"
-         id="tspan5318">version 1.0b</tspan><tspan
+         id="tspan5318">version 1.0C</tspan><tspan
          y="-470.36929"
          x="2603.5481"
          sodipodi:role="line"
-         id="tspan5175">2013/12/03</tspan></text>
+         id="tspan5175">2013/12/04</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text3488"
@@ -2236,12 +2236,7 @@
          x="2394.3159"
          y="-1515.9735"
          style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
-         id="tspan3828">Index of the names' section in the table</tspan><tspan
-         sodipodi:role="line"
-         x="2394.3159"
-         y="-1503.4735"
-         style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
-         id="tspan3826" /></text>
+         id="tspan3826">Index of the names' section in the table</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
@@ -2257,32 +2252,32 @@
          x="2394.416"
          y="-1479.5808"
          style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
-         id="tspan4691">Offset where it should be read</tspan><tspan
+         id="tspan4691">Readable and eXecutable</tspan><tspan
          sodipodi:role="line"
          x="2394.416"
          y="-1467.0808"
+         style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+         id="tspan3928">Offset where it should be read</tspan><tspan
+         sodipodi:role="line"
+         x="2394.416"
+         y="-1454.5808"
          id="tspan5176-1"
          style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular">Virtual address where it should be loaded</tspan><tspan
          sodipodi:role="line"
          x="2394.416"
-         y="-1454.5808"
+         y="-1442.0808"
          style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
          id="tspan5343">Physical address where it should be loaded</tspan><tspan
          sodipodi:role="line"
          x="2394.416"
-         y="-1442.0808"
+         y="-1429.5808"
          style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
          id="tspan5345">Size on file</tspan><tspan
          sodipodi:role="line"
          x="2394.416"
-         y="-1429.5808"
-         id="tspan5204-6"
-         style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular">Size in memory</tspan><tspan
-         sodipodi:role="line"
-         x="2394.416"
          y="-1417.0808"
          style="font-size:10px;fill:#000000;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
-         id="tspan5336">Readable and eXecutable</tspan></text>
+         id="tspan5336">Size in memory</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Envy Code R;-inkscape-font-specification:Envy Code R"
@@ -3369,11 +3364,11 @@
       <image
          sodipodi:absref="c:\corkami\trunk\doc\elf101\..\..\maintenon_xbr2.png"
          xlink:href="..\..\maintenon_xbr2.png"
-         width="324"
-         height="292"
-         id="image3013"
+         y="-2077.6604"
          x="2202.8022"
-         y="-2077.6604" />
+         id="image3013"
+         height="292"
+         width="324" />
       <g
          transform="matrix(0.54012909,-0.02491955,0.05654526,0.40742407,2162.4275,-2155.2167)"
          id="g3015"
@@ -4278,5 +4273,17 @@
        id="path3864"
        d="m 2165.0967,-972.52194 0,25.51044 -2e-4,0 0,13.6317 -0.039,-0.056 0,13.5759 -95.5724,0 0,-52.66204 z"
        style="color:#000000;fill:none;stroke:#008080;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 1.99999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aracne Regular;-inkscape-font-specification:Aracne Regular"
+       x="2600.4321"
+       y="-490.19937"
+       id="text3839"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan3860"
+         sodipodi:role="line"
+         x="2600.4321"
+         y="-490.19937"
+         style="font-size:4px">64</tspan></text>
   </g>
 </svg>
