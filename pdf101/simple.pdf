@@ -1,0 +1,64 @@
+%PDF-1.1
+
+1 0 obj
+<<
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /Count 1
+  /Kids [3 0 R]
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Contents 4 0 R
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Arial
+      >>
+    >>
+  >>
+>>
+endobj
+
+4 0 obj
+<< /Length 47>>
+stream
+BT
+  /F1 110
+  Tf
+  10 400 Td
+  (Hello World!) Tj
+ET
+endstream
+endobj
+
+xref
+0 5
+0000000000 65535 f 
+0000000010 00000 n 
+0000000047 00000 n 
+0000000111 00000 n 
+0000000313 00000 n 
+
+trailer
+<<
+  /Root 1 0 R
+>>
+
+startxref
+416
+%%EOF
+
+%a simple 'Hello World!' PDF
+%Ange Albertini BSD Licence 2013
