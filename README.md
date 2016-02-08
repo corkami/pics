@@ -58,3 +58,7 @@ Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....
 Full-res versions of slides for my [Preserving Arcade Games](http://www.youtube.com/watch?v=vg7LPcFUxg8) talk at the 31c3.
 
 [![](thumbs/CPSx.gif)](CPSx.png) [![](thumbs/NeoGeo.gif)](NeoGeo.png) ![that's the original resolution!](facepalm.png)
+
+## Cheat sheets
+### Peeks, Pokes and Pirates, with 4am
+![](thumbs/PPaP.png) [Image](PPaP/PPaP.png) [PDF](PPaP/PPaP.pdf)
