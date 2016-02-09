@@ -54,6 +54,9 @@ Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....
 
 [![](thumbs/CryptoModes.gif)](CryptoModes.png)
 
+### a history of hard choices
+![](thumbs/hashtimeline.png) [Image](hashtimeline/hashtimeline.png) [PDF](hashtimeline/hashtimeline.pdf)
+
 ##Arcade games
 Full-res versions of slides for my [Preserving Arcade Games](http://www.youtube.com/watch?v=vg7LPcFUxg8) talk at the 31c3.
 
