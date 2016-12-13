@@ -1,6 +1,6 @@
 #Posters & Pictures
 
-Free to print, modify, reuse (even commercially). You can order prints [here](http://prints.corkami.com).
+You can order prints [here](http://prints.corkami.com).
 
 ##File formats
 ###Minimalists
