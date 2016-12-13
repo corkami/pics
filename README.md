@@ -10,6 +10,9 @@ Order [prints](http://prints.corkami.com/)
 ## posters
 <a href="posters/README.md"><img src="posters/MS067OldVuln.png" width="100"></a>
 
+## tracings and logos
+<a href="tracing/README.md"><img src="tracing/ocean.png" width="200"></a>
+
 #Binary posters
 
 ##File formats
