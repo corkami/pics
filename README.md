@@ -1,6 +1,16 @@
-#Posters & Pictures
+Order [prints](http://prints.corkami.com/)
 
-You can order prints [here](http://prints.corkami.com).
+---
+
+#Others categories
+
+## outlines
+<a href="outline/README.md"><img src="outline/AtariCX30.png" width="100"></a>
+
+## posters
+<a href="posters/README.md"><img src="posters/MS067OldVuln.png" width="100"></a>
+
+#Binary posters
 
 ##File formats
 ###Minimalists
@@ -8,60 +18,62 @@ You can order prints [here](http://prints.corkami.com).
 Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels...)
 
 ####Executables
-[![](thumbs/PE.gif)](PE.png) [![](thumbs/ELF.gif)](ELF.png) [![](thumbs/MachO.gif)](MachO.png) [![](thumbs/COM.gif)](COM.png) [![](thumbs/DOL.gif)](DOL.png) [![](thumbs/SWF.gif)](SWF.png) [![](thumbs/CLASS.gif)](CLASS.png) [![](thumbs/DEX.gif)](DEX.png) 
+<a href="PE.png"><img src="PE.png" width="200"></a> <a href="ELF.png"><img src="ELF.png" width="200"></a> <a href="MachO.png"><img src="MachO.png" width="200"></a> <a href="COM.png"><img src="COM.png" width="200"></a> <a href="DOL.png"><img src="DOL.png" width="200"></a> <a href="SWF.png"><img src="SWF.png" width="200"></a> <a href="CLASS.png"><img src="CLASS.png" width="200"></a>
+
+<a href="DEX.png"><img src="DEX.png" width="200"></a> 
 
 
 ####Images
-[![](thumbs/XBM.gif)](XBM.png) [![](thumbs/PGM.gif)](PGM.png) [![](thumbs/PPM.gif)](PPM.png) [![](thumbs/BMP.gif)](BMP.png) [![](thumbs/GIF.gif)](GIF.png) [![](thumbs/TIFF_LE.gif)](TIFF_LE.png) [![](thumbs/TIFF_BE.gif)](TIFF_BE.png) [![](thumbs/PNG.gif)](PNG.png) [![](thumbs/JPG.gif)](JPG.png)
+<a href="XBM.png"><img src="XBM.png" width="200"></a> <a href="PGM.png"><img src="PGM.png" width="200"></a> <a href="PPM.png"><img src="PPM.png" width="200"></a> <a href="BMP.png"><img src="BMP.png" width="200"></a> <a href="GIF.png"><img src="GIF.png" width="200"></a> <a href="TIFF_LE.png"><img src="TIFF_LE.png" width="200"></a> <a href="TIFF_BE.png"><img src="TIFF_BE.png" width="200"></a> <a href="PNG.png"><img src="PNG.png" width="200"></a> <a href="JPG.png"><img src="JPG.png" width="200"></a>
 
 ####Archives
-[![](thumbs/ZIP.gif)](ZIP.png) [![](thumbs/TAR.gif)](TAR.png) [![](thumbs/GZip.gif)](GZip.png) [![](thumbs/RAR.gif)](RAR.png) [![](thumbs/BZ2.gif)](BZ2.png)
+<a href="ZIP.png"><img src="ZIP.png" width="200"></a> <a href="TAR.png"><img src="TAR.png" width="200"></a> <a href="GZip.png"><img src="GZip.png" width="200"></a> <a href="RAR.png"><img src="RAR.png" width="200"></a>
+
+<a href="BZ2.png"><img src="BZ2.png" width="200"></a>
 
 ####Others
-[![](thumbs/PDF.gif)](PDF.png) [![](thumbs/WAV.gif)](WAV.png) [![](thumbs/x64.gif)](x64.png) [![](thumbs/x86.gif)](x86.png)
+<a href="WAV.png"><img src="WAV.png" width="200"></a>
+
+<a href="PDF.png"><img src="PDF.png" width="200"></a>
+<a href="x64.png"><img src="x64.png" width="200"></a> <a href="x86.png"><img src="x86.png" width="200"></a>
 
 ###101
 
 Dissection with more descriptions, and explanations (my initial style of binary posters).
  
-[![](thumbs/PE101.gif)](PE101.png) [![](thumbs/ELF101.gif)](ELF101.png) [![](thumbs/ZIP101.gif)](ZIP101.png) [![](thumbs/Mach-O101.gif)](Mach-O101.png) [![](thumbs/CLASS101.gif)](CLASS101.png) [![](thumbs/PDF101.gif)](PDF101.png) [![](thumbs/COM101.gif)](COM101.png) [![](thumbs/WAV101.gif)](WAV101.png)
+<a href="PE101.png"><img src="PE101.png" width="200"></a> <a href="ELF101.png"><img src="ELF101.png" width="200"></a> <a href="ZIP101.png"><img src="ZIP101.png" width="200"></a> <a href="Mach-O101.png"><img src="Mach-O101.png" width="200"></a> <a href="CLASS101.png"><img src="CLASS101.png" width="200"></a> <a href="PDF101.png"><img src="PDF101.png" width="200"></a> <a href="COM101.png"><img src="COM101.png" width="200"></a> <a href="WAV101.png"><img src="WAV101.png" width="200"></a>
 
 ###Structures
 
 A layout of the various format's structures
 
-[![](thumbs/PE102.gif)](PE102.png)
+<a href="PE102.png"><img src="PE102.png" width="200"></a>
 
 ##Opcodes' tables
 
 Available in compact or 'with descriptions' formats
 
 ### Android
-[![](thumbs/DVM.gif)](DVM.png) [![](thumbs/DVMFull.gif)](DVMFull.jpg)
+<a href="DVM.png"><img src="DVM.png" width="200"></a>
+<a href="DVMFull.jpg"><img src="DVMFull.jpg" width="200"></a>
+
 ### JVM
-[![](thumbs/JVM.gif)](JVM.png) [![](thumbs/JVMFull.gif)](JVMFull.png)
+<a href="JVMFull.png"><img src="JVM.png" width="200"></a>
+<a href="JVMFull.png"><img src="JVMFull.png" width="200"></a>
 ### .Net
-[![](thumbs/DotNet.gif)](DotNet.png) [![](thumbs/DotNetFull.gif)](DotNetFull.jpg)
+<a href="DotNet.png"><img src="DotNet.png" width="200"></a>
+<a href="DotNetFull.jpg"><img src="DotNetFull.jpg" width="200"></a>
 
 
-One day, Most of these files will be obsolete ;)
 
-----------
+---
 
 ##Cryptography
 
 Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....
 
-[![](thumbs/CryptoModes.gif)](CryptoModes.png)
+<a href="CryptoModes.png"><img src="CryptoModes.png" width="200"></a>
 
-### a history of hard choices
-![](thumbs/hashtimeline.png) [Image](hashtimeline/hashtimeline.png) [PDF](hashtimeline/hashtimeline.pdf)
+---
 
-##Arcade games
-Full-res versions of slides for my [Preserving Arcade Games](http://www.youtube.com/watch?v=vg7LPcFUxg8) talk at the 31c3.
-
-[![](thumbs/CPSx.gif)](CPSx.png) [![](thumbs/NeoGeo.gif)](NeoGeo.png) ![that's the original resolution!](facepalm.png)
-
-## Cheat sheets
-### Peeks, Pokes and Pirates, with 4am
-![](thumbs/PPaP.png) [Image](PPaP/PPaP.png) [PDF](PPaP/PPaP.pdf)
+Order [prints](http://prints.corkami.com/)
