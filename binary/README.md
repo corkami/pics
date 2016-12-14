@@ -67,20 +67,21 @@ A layout of the various format's structures
 
 #Opcodes' tables
 
-Available in compact or 'with descriptions' formats
+Available in compact 
 
-## Android
-<a href="DVM.png"><img src="DVM.png" width="300"></a>
-<a href="DVMFull.jpg"><img src="DVMFull.jpg" width="400"></a>
+<a href="opcodes_tables_complete.pdf">
+	<img src="DVM.png" width="300">
+	<img src="JVM.png" width="300">
+	<img src="DotNet.png" width="300">
+</a>
 
-## JVM
-<a href="JVMFull.png"><img src="JVM.png" width="300"></a>
-<a href="JVMFull.png"><img src="JVMFull.png" width="400"></a>
-## .Net
-<a href="DotNet.png"><img src="DotNet.png" width="300"></a>
-<a href="DotNetFull.jpg"><img src="DotNetFull.jpg" width="400"></a>
+or 'with descriptions' formats
 
-
+<a href="opcodes_tables_compact.pdf">
+	<img src="DVMFull.jpg" width="400">
+	<img src="JVMFull.png" width="400">
+	<img src="DotNetFull.jpg" width="400">
+</a>
 
 ---
 ##Cryptography
