@@ -50,20 +50,20 @@ Dissection with more descriptions, and explanations (my initial style of binary 
 
 source Inkscape SVGs and PoC with their sources are included
 
-<a href="PE101.png"><img src="PE101.png" width="300"></a>
-<a href="ELF101.png"><img src="ELF101.png" width="300"></a>
-<a href="ZIP101.png"><img src="ZIP101.png" width="300"></a>
-<a href="Mach-O101.png"><img src="Mach-O101.png" width="300"></a>
-<a href="CLASS101.png"><img src="CLASS101.png" width="300"></a>
-<a href="PDF101.png"><img src="PDF101.png" width="300"></a>
-<a href="COM101.png"><img src="COM101.png" width="300"></a>
-<a href="WAV101.png"><img src="WAV101.png" width="300"></a>
+<a href="pe101/pe101.pdf"><img src="PE101.png" width="300"></a>
+<a href="elf101/elf101.pdf"><img src="ELF101.png" width="300"></a>
+<a href="zip101/zip101.pdf"><img src="ZIP101.png" width="300"></a>
+<a href="macho101/macho101.pdf"><img src="Mach-O101.png" width="300"></a>
+<a href="class101/class101.pdf"><img src="CLASS101.png" width="300"></a>
+<a href="pdf101/pdf101.pdf"><img src="PDF101.png" width="300"></a>
+<a href="com101/com101.pdf"><img src="COM101.png" width="300"></a>
+<a href="wav101/wav101.pdf"><img src="WAV101.png" width="300"></a>
 
 ##Structures
 
 A layout of the various format's structures
 
-<a href="PE102.png"><img src="PE102.png" width="300"></a>
+<a href="pe102/pe102.pdf"><img src="PE102.png" width="300"></a>
 
 #Opcodes' tables
 
