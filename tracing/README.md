@@ -1,5 +1,6 @@
-Order [prints](http://prints.corkami.com/)
+Support me! Order [prints](http://prints.corkami.com/)
 
+---
 # tracings and logos
 
 ---
@@ -31,5 +32,4 @@ Order [prints](http://prints.corkami.com/)
 <a href="beagle-croc.pdf"><img src="beagle-croc.png" width="150" alt="Beagle Bros Crocodile warning"></a>
 
 ---
-
-Order [prints](http://prints.corkami.com/)
+Support me! Order [prints](http://prints.corkami.com/)

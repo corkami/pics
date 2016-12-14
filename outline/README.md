@@ -1,6 +1,7 @@
-Order [prints](http://prints.corkami.com/)
+Support me! Order [prints](http://prints.corkami.com/)
 
 # Outlines
+
 ---
 <a href="Atari400.pdf"><img src="Atari400.png" width="200" alt="Atari 400"></a>
 <a href="Atari800.pdf"><img src="Atari800.png" width="200" alt="Atari 800"></a>
@@ -12,4 +13,5 @@ Order [prints](http://prints.corkami.com/)
 <a href="SnesPad.pdf"><img src="SnesPad.png" width="200" alt="SNES pad "></a>
 <a href="SuperGameBoy.pdf"><img src="SuperGameBoy.png" width="200" alt="Super GameBoy"></a>
 
-Order [prints](http://prints.corkami.com/)
+---
+Support me! Order [prints](http://prints.corkami.com/)

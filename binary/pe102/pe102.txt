@@ -1,0 +1,17 @@
+InfoKey: Title
+InfoValue: PE 102 - a Windows executable format overview (version 1.01)
+InfoKey: Subject
+InfoValue: the Portable Executable file format structure
+InfoKey: Author
+InfoValue: Ange Albertini - http://corkami.com
+InfoKey: Keywords
+InfoValue: portable executable, coff, structure, overview, windows, binary, executable, file format
+InfoKey: Creator
+InfoValue: Inkscape
+InfoKey: Producer
+InfoValue: Cairo
+InfoKey: CreationDate
+InfoValue: D:20100125235921Z
+
+InfoKey: ModDate
+InfoValue: D:20130827031415Z

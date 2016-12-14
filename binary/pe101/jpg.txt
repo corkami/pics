@@ -1,0 +1,6 @@
+PE 101 - a windows executable walkthrough
+version 1, 3rd May 2012
+Introduction to the Portable Executable file format
+Ange Albertini - http://corkami.com
+
+portable executable, coff, introduction, walkthrough, windows, binary, executable, file format

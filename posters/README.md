@@ -1,6 +1,7 @@
-Order [prints](http://prints.corkami.com/)
+Support me! Order [prints](http://prints.corkami.com/)
 
 # Posters
+
 ---
 <a href="MS067OldVuln.pdf"><img src="MS067OldVuln.png" width="200" alt="MS08-067 old vulnerability"></a>
 <a href="DeReAtari.pdf"><img src="DeReAtari.png" width="200" alt="De Re Atari"></a>
@@ -27,4 +28,4 @@ Order [prints](http://prints.corkami.com/)
 <a href="ThreatScenarios/cyber.pdf"><img src="ThreatScenarios/cyber.png" width="300" alt="PCB style"></a>
 
 ---
-Order [prints](http://prints.corkami.com/)
+Support me! Order [prints](http://prints.corkami.com/)
