@@ -12,7 +12,7 @@ Welcome!
 <img src="posters/MS067OldVuln.png" width="100"> <img src="posters/STM32F40xxx.png" width="130"></a>
 
 <a href="tracing/README.md">
-## tracings and logos (22)
+## tracings and logos (23)
 <img src="tracing/ocean.png" width="200"> <img src="tracing/Digdug.png" width="200"></a>
 
 <a href="binary/README.md">

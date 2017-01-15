@@ -30,6 +30,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 ---
 <a href="gumball-game.pdf"><img src="gumball-game.png" width="200" alt="Gumball gameplay"></a>
 <a href="sonic.pdf"><img src="sonic.png" width="200" alt="Sonic the Hedgehog - title"></a>
+<a href="mk8.pdf"><img src="mk8.png" width="200" alt="MK8"></a>
 <a href="beagle-croc.pdf"><img src="beagle-croc.png" width="150" alt="Beagle Bros Crocodile warning"></a>
 
 ---
