@@ -34,4 +34,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="beagle-croc.pdf"><img src="beagle-croc.png" width="150" alt="Beagle Bros Crocodile warning"></a>
 
 ---
+<a href="remember.pdf"><img src="remember.png" width="200" alt="Remember - Turn off your computer off before midnight on 12/31/1999"></a>
+
+---
 Support me! Order [prints](http://prints.corkami.com/)
