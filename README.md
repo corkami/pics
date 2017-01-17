@@ -8,11 +8,11 @@ Welcome!
 <img src="outline/AtariCX30.png" width="100"> <img src="outline/rob.png" width="100"></a>
 
 <a href="posters/README.md">
-## posters (17)
+## posters (21)
 <img src="posters/MS067OldVuln.png" width="100"> <img src="posters/STM32F40xxx.png" width="130"></a>
 
 <a href="tracing/README.md">
-## tracings and logos (25)
+## tracings (26)
 <img src="tracing/ocean.png" width="200"> <img src="tracing/Digdug.png" width="200"></a>
 
 <a href="binary/README.md">
