@@ -12,7 +12,7 @@ Welcome!
 <img src="posters/MS067OldVuln.png" width="100"> <img src="posters/STM32F40xxx.png" width="130"> <img src="posters/NeoGeo.png" width="200"></a> 
 
 <a href="tracing/README.md">
-## tracings [30]
+## tracings [38]
 <img src="tracing/rfc791.png" width="200"> <img src="tracing/sonic.png" width="200"> <img src="tracing/DeReAtari.png" width="150"> <img src="tracing/ocean.png" width="200"></a>
 
 <a href="binary/README.md">

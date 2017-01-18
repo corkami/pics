@@ -7,7 +7,6 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="gumball-game.pdf"><img src="gumball-game.png" width="200" alt="Gumball gameplay"></a>
 <a href="sonic.pdf"><img src="sonic.png" width="200" alt="Sonic the Hedgehog - title"></a>
 <a href="mk8.pdf"><img src="mk8.png" width="150" alt="MK8"></a>
-<a href="beagle-croc.pdf"><img src="beagle-croc.png" width="150" alt="Beagle Bros Crocodile warning"></a>
 <a href="DeReAtari.pdf"><img src="DeReAtari.png" width="200" alt="De Re Atari"></a>
 <a href="MegaMan.pdf"><img src="MegaMan.png" width="200" alt="Mega Man shooting"></a>
 <a href="MegaManSlide.pdf"><img src="MegaManSlide.png" width="200" alt="Mega Man sliding"></a>
@@ -41,6 +40,21 @@ Support me! Order [prints](http://prints.corkami.com/)
 
 <a href="AlienMind.pdf"><img src="AlienMind.png" width="200" alt="Alien Mind"></a>
 <a href="SkateOrDie.pdf"><img src="SkateOrDie.png" width="150" alt="Skate or Die"></a>
+
+---
+#Beagle Bros floppy warnings
+
+<a href="beagle/croc.pdf"><img src="beagle/croc.png" width="150" alt="Crocodile"></a>
+<a href="beagle/back.pdf"><img src="beagle/back.png" width="150" alt="Back pocket"></a>
+<a href="beagle/bird.pdf"><img src="beagle/bird.png" width="150" alt="Bird in a cage"></a>
+
+<a href="beagle/bottle.pdf"><img src="beagle/bottle.png" width="150" alt="Bottle"></a>
+<a href="beagle/fire.pdf"><img src="beagle/fire.png" width="150" alt="Fire"></a>
+<a href="beagle/kite.pdf"><img src="beagle/kite.png" width="150" alt="Kite"></a>
+
+<a href="beagle/plane.pdf"><img src="beagle/plane.png" width="150" alt="Plane"></a>
+<a href="beagle/toilet.pdf"><img src="beagle/toilet.png" width="150" alt="toilet"></a>
+<a href="beagle/turntable.pdf"><img src="beagle/turntable.png" width="150" alt="turntable"></a>
 
 ---
 Support me! Order [prints](http://prints.corkami.com/)
