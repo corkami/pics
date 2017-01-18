@@ -42,19 +42,19 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="SkateOrDie.pdf"><img src="SkateOrDie.png" width="150" alt="Skate or Die"></a>
 
 ---
-#Beagle Bros floppy warnings
+#Floppy discs warnings
 
-<a href="beagle/croc.pdf"><img src="beagle/croc.png" width="150" alt="Crocodile"></a>
-<a href="beagle/back.pdf"><img src="beagle/back.png" width="150" alt="Back pocket"></a>
-<a href="beagle/bird.pdf"><img src="beagle/bird.png" width="150" alt="Bird in a cage"></a>
+<a href="floppy/croc.pdf"><img src="floppy/croc.png" width="150" alt="Crocodile"></a>
+<a href="floppy/back.pdf"><img src="floppy/back.png" width="150" alt="Back pocket"></a>
+<a href="floppy/bird.pdf"><img src="floppy/bird.png" width="150" alt="Bird in a cage"></a>
 
-<a href="beagle/bottle.pdf"><img src="beagle/bottle.png" width="150" alt="Bottle"></a>
-<a href="beagle/fire.pdf"><img src="beagle/fire.png" width="150" alt="Fire"></a>
-<a href="beagle/kite.pdf"><img src="beagle/kite.png" width="150" alt="Kite"></a>
+<a href="floppy/bottle.pdf"><img src="floppy/bottle.png" width="150" alt="Bottle"></a>
+<a href="floppy/fire.pdf"><img src="floppy/fire.png" width="150" alt="Fire"></a>
+<a href="floppy/kite.pdf"><img src="floppy/kite.png" width="150" alt="Kite"></a>
 
-<a href="beagle/plane.pdf"><img src="beagle/plane.png" width="150" alt="Plane"></a>
-<a href="beagle/toilet.pdf"><img src="beagle/toilet.png" width="150" alt="toilet"></a>
-<a href="beagle/turntable.pdf"><img src="beagle/turntable.png" width="150" alt="turntable"></a>
+<a href="floppy/plane.pdf"><img src="floppy/plane.png" width="150" alt="Plane"></a>
+<a href="floppy/toilet.pdf"><img src="floppy/toilet.png" width="150" alt="toilet"></a>
+<a href="floppy/turntable.pdf"><img src="floppy/turntable.png" width="150" alt="turntable"></a>
 
 ---
 Support me! Order [prints](http://prints.corkami.com/)
