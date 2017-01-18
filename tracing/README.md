@@ -16,6 +16,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="remember.pdf"><img src="remember.png" width="200" alt="Remember - Turn off your computer off before midnight on 12/31/1999"></a>
 <a href="rfc791.pdf"><img src="rfc791.png" width="200" alt="Internet Protocol Datagram - RFC791"></a>
 <a href="hometaping.pdf"><img src="hometaping.png" width="200" alt="home taping is killing music and it's illegal"></a>
+<a href="toilets.pdf"><img src="toilets.png" width="150" alt="standard Japanese spray toilets pictograms"></a>
 
 ---
 <a href="ocean.pdf"><img src="ocean.png" width="200" alt="Ocean"></a>
