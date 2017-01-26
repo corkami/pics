@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="360.59" width="402.75" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(214.78 -371.19)">
+  <g>
+   <path style="color:#000000" d="m137.9 579.65c-13.462 83.07-85.52 146.5-172.39 146.5-96.456 0-174.65-78.193-174.65-174.65 0-96.456 78.193-174.65 174.65-174.65 87.913 0 160.65 64.955 172.85 149.49" stroke-opacity=".99608" stroke="#004b73" stroke-width="11.3" fill="none"/>
+   <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m-153.97 515.44 18.281 73.155h288.66c19.534 0 35-16.92 35-36.655s-15.466-36.5-35-36.5z" fill-opacity=".99608" fill="#fff"/>
+   <path style="color:#000000" d="m137.9 579.65c-13.462 83.07-85.52 146.5-172.39 146.5-96.456 0-174.65-78.193-174.65-174.65 0-96.456 78.193-174.65 174.65-174.65 87.913 0 160.65 64.955 172.85 149.49" stroke-opacity=".99608" stroke="#004b73" stroke-width="11.3" fill="#fff"/>
+   <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m94 197.22v0.25h-11.094c7.7403 46.74 48.494 82.562 97.375 82.562 49.108 0 90.028-35.597 97.5-82.656h-16v-0.15625zm18.562 20h135.56c-12.795 24.343-38.288 40.812-67.844 40.812-29.491 0-54.905-16.511-67.719-40.812z" fill-opacity=".99608" transform="translate(-214.78 371.19)" fill="#004b73"/>
+  </g>
+  <g fill-opacity=".99608" fill="#004b73" transform="translate(-420)">
+   <path style="color:#000000" d="m312.64 564.23c0-11.728 10.879-21.236 24.299-21.236s24.299 9.5075 24.056 21.402c-2.858-4.4858-8.5759-8.1247-15.804-9.7364-13.231-2.9504-27.998 1.0198-32.554 9.5884z"/>
+   <path style="color:#000000" d="m409.64 564.23c0-11.728 10.879-21.236 24.299-21.236s24.299 9.5075 24.056 21.402c-2.858-4.4858-8.5759-8.1247-15.804-9.7364-13.231-2.9504-27.998 1.0198-32.554 9.5884z"/>
+  </g>
+  <path id="a" style="color:#000000" d="m107.99 528.36c8.6492 60.017-22.821 120.94-80.875 147.08-70.27 31.632-152.88 0.31088-184.51-69.959-31.632-70.27-0.31087-152.88 69.959-184.51 57.088-25.699 122.32-9.8466 161.75 34.684 6.1413 7.4969 13.038 15.865 17.807 24.729" fill="none"/>
+  <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m180.28 49.156c-66.134 0-121.12 51.499-130.69 115.09h318.16c8.1662 0 15 6.9006 15 16.5s-6.8338 16.656-15 16.656h-78.375c-8.4853 60.376-64.03 101.49-124.41 93l-0.625-0.0937c-57.06-8.36-97.962-59.99-93.934-117.6l-21.968-0.03c-4.8347 69.139 44.836 129.85 113.47 139.5 65.286 9.1753 126.31-33.185 144.84-94.781h61c19.534 0 35-16.921 35-36.656s-15.466-36.5-35-36.5h-60.594c-16.05-54.966-66.87-95.094-126.88-95.094zm0 22c47.929 0 88.574 30.52 103.78 73.094h-207.72c15.049-42.763 55.808-73.094 103.94-73.094z" fill-opacity=".99608" transform="translate(-214.78 371.19)" fill="#004b73"/>
+  <path d="m-34.372 441.45v-26.065" stroke="#014c74" stroke-width="16" fill="none"/>
+  <text font-size="30px" xml:space="preserve" style="word-spacing:0px;letter-spacing:0px" transform="matrix(.91289 .40821 -.40821 .91289 218.02 63.697)" line-height="125%" font-family="Impact" fill="#004c73"><textPath xlink:href="#a" font-size="30px" font-family="Impact">I thought what I&apos;d do was, I&apos;d pretend I was one of those deaf-mutes</textPath></text>
+ </g>
+</svg>

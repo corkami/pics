@@ -41,6 +41,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 
 <a href="AlienMind.pdf"><img src="AlienMind.png" width="200" alt="Alien Mind"></a>
 <a href="SkateOrDie.pdf"><img src="SkateOrDie.png" width="150" alt="Skate or Die"></a>
+<a href="LaughingMan.pdf"><img src="LaughingMan.png" width="150" alt="Laughing Man from Ghost in the Shell"></a>
 
 ---
 #Floppy discs warnings
