@@ -9,7 +9,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="hometaping.pdf"><img src="hometaping.png" width="200" alt="home taping is killing music and it's illegal"></a>
 <a href="toilets.pdf"><img src="toilets.png" width="150" alt="standard Japanese spray toilets pictograms"></a>
 <a href="LaughingMan.pdf"><img src="LaughingMan.png" width="200" alt="Laughing Man (Ghost in the Shell)"></a>
-<a href="Sneakers.pdf"><img src="Sneakers.png" width="200" alt="Sneakers (the movie) & 4am's passport"></a>
+<a href="sneakers.pdf"><img src="sneakers.png" width="200" alt="Sneakers (the movie) & 4am's passport"></a>
 
 ---
 
