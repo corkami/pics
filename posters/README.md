@@ -13,6 +13,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 
 <a href="hashtimeline.pdf"><img src="hashtimeline.png" width="200" alt="Ryan Sleevi's history of hard choices"></a>
 <a href="norx.pdf"><img src="norx.png" width="300" alt="the NORX cipher"></a>
+<a href="phyriodic.pdf"><img src="phyriodic.png" width="200" alt="a PHYriodic table (idea by Sergey Bratus)"></a>
 
 <a href="ioccc.pdf"><img src="ioccc.png" width="300" alt="the International Obfuscated C Code Contest"></a>
 <a href="sugihara.pdf"><img src="sugihara.png" width="300" alt="Ambiguous cylinder"></a>
