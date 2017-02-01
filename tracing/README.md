@@ -10,6 +10,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="toilets.pdf"><img src="toilets.png" width="150" alt="standard Japanese spray toilets pictograms"></a>
 <a href="LaughingMan.pdf"><img src="LaughingMan.png" width="200" alt="Laughing Man (Ghost in the Shell)"></a>
 <a href="sneakers.pdf"><img src="sneakers.png" width="200" alt="Sneakers (the movie) & 4am's passport"></a>
+<a href="clippy.pdf"><img src="clippy.png" width="200" alt="Clippy (Microsoft Office Assistant)"></a>
 
 ---
 
