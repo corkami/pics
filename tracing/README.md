@@ -49,7 +49,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="mk8.pdf"><img src="mk8.png" width="150" alt="MK8"></a>
 
 ---
-#Floppy discs warnings
+# Floppy discs warnings
 
 <a href="floppy/croc.pdf"><img src="floppy/croc.png" width="150" alt="Crocodile"></a>
 <a href="floppy/back.pdf"><img src="floppy/back.png" width="150" alt="Back pocket"></a>

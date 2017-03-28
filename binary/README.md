@@ -1,12 +1,12 @@
 Support me! Order [prints](http://prints.corkami.com/)
 
 ---
-#File formats
-##Minimalists
+# File formats
+## Minimalists
 
 Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels...)
 
-###Executables
+### Executables
 <a href="PE.png"><img src="PE.png" width="200"></a>
 <a href="ELF.png"><img src="ELF.png" width="200"></a>
 <a href="MachO.png"><img src="MachO.png" width="200"></a>
@@ -18,7 +18,7 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 <a href="DalvikEXecutable.pdf"><img src="DEX.png" width="200"></a> 
 
 
-###Images
+### Images
 <a href="XBM.png"><img src="XBM.png" width="200"></a>
 <a href="PGM.png"><img src="PGM.png" width="200"></a>
 <a href="PPM.png"><img src="PPM.png" width="200"></a>
@@ -29,7 +29,7 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 <a href="PNG.png"><img src="PNG.png" width="200"></a>
 <a href="JPG.png"><img src="JPG.png" width="200"></a>
 
-###Archives
+### Archives
 <a href="ZIP.png"><img src="ZIP.png" width="200"></a>
 <a href="TAR.png"><img src="TAR.png" width="200"></a>
 <a href="GZip.png"><img src="GZip.png" width="200"></a>
@@ -37,14 +37,14 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 
 <a href="BZ2.png"><img src="BZ2.png" width="200"></a>
 
-###Others
+### Others
 <a href="PDF.png"><img src="PDF.png" width="200"></a>
 <a href="x64.png"><img src="x64.png" width="200"></a>
 <a href="x86.png"><img src="x86.png" width="200"></a>
 
 <a href="WAV.png"><img src="WAV.png" width="200"></a>
 
-##101
+## 101
 
 Dissection with more descriptions, and explanations (my initial style of binary posters).
 
@@ -59,13 +59,13 @@ source Inkscape SVGs and PoC with their sources are included
 <a href="com101/com101.pdf"><img src="COM101.png" width="300"></a>
 <a href="wav101/wav101.pdf"><img src="WAV101.png" width="300"></a>
 
-##Structures
+## Structures
 
 A layout of the various format's structures
 
 <a href="pe102/pe102.pdf"><img src="PE102.png" width="300"></a>
 
-#Opcodes' tables
+# Opcodes' tables
 
 Available in compact 
 
@@ -84,7 +84,7 @@ or 'with descriptions' formats
 </a>
 
 ---
-##Cryptography
+## Cryptography
 
 Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....
 
