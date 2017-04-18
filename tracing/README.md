@@ -12,6 +12,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="sneakers.pdf"><img src="sneakers.png" width="200" alt="Sneakers (the movie) & 4am's passport"></a>
 <a href="clippy.pdf"><img src="clippy.png" width="200" alt="Clippy (Microsoft Office Assistant)"></a>
 <a href="mcga.pdf"><img src="mcga.png" width="200" alt="Make Cyber Great Again"></a>
+<a href="EmployeesMust.pdf"><img src="EmployeesMust.png" width="200" alt="Employees must wash hands before returning to work"></a>
 
 ---
 
@@ -50,7 +51,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="mk8.pdf"><img src="mk8.png" width="150" alt="MK8"></a>
 
 ---
-# Floppy discs warnings
+# Floppy disks warnings
 
 <a href="floppy/croc.pdf"><img src="floppy/croc.png" width="150" alt="Crocodile"></a>
 <a href="floppy/back.pdf"><img src="floppy/back.png" width="150" alt="Back pocket"></a>
@@ -63,6 +64,8 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="floppy/plane.pdf"><img src="floppy/plane.png" width="150" alt="Plane"></a>
 <a href="floppy/toilet.pdf"><img src="floppy/toilet.png" width="150" alt="toilet"></a>
 <a href="floppy/turntable.pdf"><img src="floppy/turntable.png" width="150" alt="turntable"></a>
+
+Beagle Bros & Polarware
 
 ---
 Support me! Order [prints](http://prints.corkami.com/)
