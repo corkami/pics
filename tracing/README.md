@@ -15,13 +15,12 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="STIC.pdf"><img src="STIC.png" width="200" alt="Supplices et Tourments via Inscriptions et Challenges"></a>
 <a href="EmployeesMust.pdf"><img src="EmployeesMust.png" width="200" alt="Employees must wash hands before returning to work"></a>
 <a href="ReverseEngineer.pdf"><img src="ReverseEngineer.png" width="200" alt="Reverse Engineer"></a>
-<a href="Department.pdf"><img src="Department.png" width="200" alt="This department has worked ... days without ..."></a>
-
 
 ---
 
 <a href="DeReAtari.pdf"><img src="DeReAtari.png" width="200" alt="De Re Atari"></a>
 <a href="MegaMan.pdf"><img src="MegaMan.png" width="200" alt="Mega Man shooting"></a>
+<a href="Department.pdf"><img src="Department.png" width="200" alt="This department has worked ... days without ..."></a>
 
 <a href="gumball-game.pdf"><img src="gumball-game.png" width="200" alt="Gumball gameplay"></a>
 <a href="MegaManSlide.pdf"><img src="MegaManSlide.png" width="200" alt="Mega Man sliding"></a>
