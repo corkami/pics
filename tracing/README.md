@@ -14,6 +14,7 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="remember.pdf"><img src="remember.png" width="200" alt="Remember - Turn off your computer off before midnight on 12/31/1999"></a>
 <a href="STIC.pdf"><img src="STIC.png" width="200" alt="Supplices et Tourments via Inscriptions et Challenges"></a>
 <a href="EmployeesMust.pdf"><img src="EmployeesMust.png" width="200" alt="Employees must wash hands before returning to work"></a>
+<a href="ReverseEngineer.pdf"><img src="ReverseEngineer.png" width="200" alt="Reverse Engineer"></a>
 
 ---
 
