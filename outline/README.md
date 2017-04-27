@@ -1,4 +1,4 @@
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
 
 # Outlines
 
@@ -16,4 +16,4 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="PowerGlove.pdf"><img src="PowerGlove.png" width="250" alt="Power Glove"></a>
 
 ---
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).

@@ -1,4 +1,4 @@
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
 
 ---
 # File formats
@@ -91,4 +91,4 @@ Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....
 <a href="CryptoModes.png"><img src="CryptoModes.png" width="200"></a>
 
 ---
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).

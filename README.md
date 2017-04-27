@@ -1,4 +1,4 @@
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
 
 ---
 Welcome!
@@ -18,4 +18,4 @@ Welcome!
 ---
 Ange
 
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).

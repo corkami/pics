@@ -1,4 +1,4 @@
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
 
 # Posters
 
@@ -38,4 +38,4 @@ Support me! Order [prints](http://prints.corkami.com/)
 <a href="PeaceFlag/german.pdf"><img src="PeaceFlag/german.png" width="300" alt="English"></a>
 
 ---
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
