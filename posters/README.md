@@ -17,6 +17,8 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 
 <a href="ioccc.pdf"><img src="ioccc.png" width="300" alt="the International Obfuscated C Code Contest"></a>
 <a href="sugihara.pdf"><img src="sugihara.png" width="300" alt="Ambiguous cylinder"></a>
+<a href="Cyprus.pdf"><img src="Cyprus.png" width="300" alt="Amazing Cyprus"></a>
+
 
 ---
 <a href="CPSx.png"><img src="CPSx.png" width="200" alt="CPS1/2/3 games"></a>
