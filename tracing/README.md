@@ -72,4 +72,9 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 Beagle Bros & Polarware
 
 ---
+# LaTeX
+
+<a href="aclu.pdf"><img src="aclu.png" width="200" alt="an ACLU ad"></a>
+
+---
 Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
