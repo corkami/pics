@@ -49,11 +49,12 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 
 
 <a href="AlienMind.pdf"><img src="AlienMind.png" width="200" alt="Alien Mind"></a>
-<a href="SkateOrDie.pdf"><img src="SkateOrDie.png" width="150" alt="Skate or Die"></a>
+<a href="SkateOrDie.pdf"><img src="SkateOrDie.png" width="200" alt="Skate or Die"></a>
 <a href="sonic.pdf"><img src="sonic.png" width="200" alt="Sonic the Hedgehog - title"></a>
 
-<a href="mk8.pdf"><img src="mk8.png" width="150" alt="MK8"></a>
+<a href="mk8.pdf"><img src="mk8.png" width="200" alt="MK8"></a>
 <a href="agony.pdf"><img src="agony.png" width="200" alt="Agony (Art &amp; Magic, 1992)"></a>
+<a href="GameGenie.pdf"><img src="GameGenie.png" width="200" alt="Game Genie"></a>
 
 ---
 # Floppy disks warnings
