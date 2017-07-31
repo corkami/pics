@@ -56,7 +56,7 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 <a href="agony.pdf"><img src="agony.png" width="200" alt="Agony (Art &amp; Magic, 1992)"></a>
 <a href="GameGenie.pdf"><img src="GameGenie.png" width="200" alt="Game Genie"></a>
 
-<a href="PierSolar.pdf"><img src="PierSolar.png" width="200" alt="Pier Solar and the great architects"></a>
+<a href="piersolar.pdf"><img src="piersolar.png" width="200" alt="Pier Solar and the great architects"></a>
 
 ---
 # Floppy disks warnings
