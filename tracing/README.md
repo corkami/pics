@@ -59,6 +59,13 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 <a href="piersolar.pdf"><img src="piersolar.png" width="200" alt="Pier Solar and the great architects"></a>
 
 ---
+# Memes
+
+<a href="meme/KeepSegfault.pdf"><img src="meme/KeepSegfault.png" height="300" alt="KEEP CALM and (segfault)"></a>
+<a href="meme/KeepCalc.pdf"><img src="meme/KeepCalc.png" height="304" alt="KEEP CALM and (calc)"></a>
+<a href="meme/KeepBroken.pdf"><img src="meme/KeepBroken.png" height="300" alt="KEEP CALM and (broken screen)"></a>
+
+---
 # Floppy disks warnings
 
 <a href="floppy/croc.pdf"><img src="floppy/croc.png" width="150" alt="Crocodile"></a>
