@@ -1,6 +1,13 @@
 Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
 
 ---
+
+# Basics of computing
+
+<a href="hexadecimal.pdf"><img src="hexadecimal.png" width="300" alt="hexadecimal"></a>
+
+---
+
 # File formats
 ## Minimalists
 
