@@ -8,11 +8,13 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 <a href="hometaping.pdf"><img src="hometaping.png" width="200" alt="home taping is killing music and it's illegal"></a>
 <a href="toilets.pdf"><img src="toilets.png" width="150" alt="standard Japanese spray toilets pictograms"></a>
 <a href="LaughingMan.pdf"><img src="LaughingMan.png" width="200" alt="Laughing Man (Ghost in the Shell)"></a>
+<a href="gracie.pdf"><img src="gracie.png" width="200" alt="Gracie Films' shhh"></a>
 <a href="sneakers.pdf"><img src="sneakers.png" width="200" alt="Sneakers (the movie) & 4am's passport"></a>
+
 <a href="clippy.pdf"><img src="clippy.png" width="200" alt="Clippy (Microsoft Office Assistant)"></a>
+<a href="STIC.pdf"><img src="STIC.png" width="200" alt="Supplices et Tourments via Inscriptions et Challenges"></a>
 <a href="mcga.pdf"><img src="mcga.png" width="200" alt="Make Cyber Great Again"></a>
 <a href="remember.pdf"><img src="remember.png" width="200" alt="Remember - Turn off your computer off before midnight on 12/31/1999"></a>
-<a href="STIC.pdf"><img src="STIC.png" width="200" alt="Supplices et Tourments via Inscriptions et Challenges"></a>
 <a href="EmployeesMust.pdf"><img src="EmployeesMust.png" width="200" alt="Employees must wash hands before returning to work"></a>
 <a href="ReverseEngineer.pdf"><img src="ReverseEngineer.png" width="200" alt="Reverse Engineer"></a>
 
