@@ -4,8 +4,25 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 
 # Basics of computing
 
+Hexadecimal
+
 <a href="basics/hexadecimal.pdf"><img src="basics/hexadecimal.png" width="300" alt="hexadecimal"></a>
+
+Colors
+
 <a href="basics/colors.pdf"><img src="basics/colors.png" width="300" alt="colors"></a>
+
+Image
+
+<a href="basics/image.pdf"><img src="basics/image.png" width="300" alt="Image"></a>
+
+Portable PixMap
+
+[Examples](basics/examples)
+
+<a href="basics/ppm1.pdf"><img src="basics/ppm1.png" width="300" alt="Portable PixMap 1/2"></a>
+<a href="basics/ppm2.pdf"><img src="basics/ppm2.png" width="300" alt="Portable PixMap 2/2"></a>
+
 
 ---
 
