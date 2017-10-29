@@ -40,4 +40,8 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 <a href="PeaceFlag/german.pdf"><img src="PeaceFlag/german.png" width="300" alt="English"></a>
 
 ---
+# Comics
+<a href="Comics/Expectations and Reality.pdf"><img src="Comics/Expectations and Reality.png" width="300" alt="Expectations and Reality"></a>
+
+---
 Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
