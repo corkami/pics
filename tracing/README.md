@@ -67,6 +67,8 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 <a href="meme/KeepCalc.pdf"><img src="meme/KeepCalc.png" height="304" alt="KEEP CALM and (calc)"></a>
 <a href="meme/KeepBroken.pdf"><img src="meme/KeepBroken.png" height="300" alt="KEEP CALM and (broken screen)"></a>
 
+<a href="meme/sudo_boo.pdf"><img src="meme/sudo_boo.png" height="300" alt="Boo! boo! boo! Sudo boo!"></a>
+
 ---
 # Floppy disks warnings
 
