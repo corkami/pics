@@ -59,6 +59,7 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 <a href="GameGenie.pdf"><img src="GameGenie.png" width="200" alt="Game Genie"></a>
 
 <a href="piersolar.pdf"><img src="piersolar.png" width="200" alt="Pier Solar and the great architects"></a>
+<a href="superturbo.pdf"><img src="superturbo.png" width="200" alt="Super ... Turbo"></a>
 
 ---
 # Memes
