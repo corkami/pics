@@ -75,7 +75,14 @@ Dissection with more descriptions, and explanations (my initial style of binary 
 
 source Inkscape SVGs and PoC with their sources are included
 
-<a href="pe101/pe101.pdf"><img src="PE101.png" width="300"></a>
+[PE 101](pe101/README.md)
+
+<a href="pe101/README.md">
+<img src="pe101/pe101l.png" width="300">
+<img src="pe101/pe101-64.png" width="300"></a>
+
+### Others
+
 <a href="elf101/elf101.pdf"><img src="ELF101.png" width="300"></a>
 <a href="zip101/zip101.pdf"><img src="ZIP101.png" width="300"></a>
 <a href="macho101/macho101.pdf"><img src="Mach-O101.png" width="300"></a>
