@@ -47,7 +47,7 @@ un recorrido por los ejecutables de windows - Gorka Ramírez
 
 ## French: Français
 
-visite guidée d´un exécutable Windows
+visite guidée d'un exécutable Windows
 [PNG](pe101fr.png) [PDF](pe101fr.pdf) [SVG](pe101fr.svg)
 
 
@@ -86,4 +86,4 @@ Plik PE krok po kroku v1.1 - Adam Błaszczyk & Gynvael Coldwind
 Windows可执行文件详解 - 译者 童进
 [PNG](pe101zh.png) [PDF](pe101zh.pdf) [SVG](pe101zh.svg)
 
-<img src="pe1011pl.png" width=600/>
+<img src="pe101zh.png" width=600/>
