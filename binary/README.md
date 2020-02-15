@@ -26,6 +26,27 @@ Portable PixMap
 
 ---
 
+# Charsets and encodings
+
+## ASCII
+<a href="charsets/ASCIIprintable.png"><img src="charsets/ASCIIprintable.png" alt="printable ASCII" width=200></a>
+<a href="charsets/ASCII.png"><img src="charsets/ASCII.png" alt="complete ASCII" width=200></a>
+
+## DOS codepages
+<a href="charsets/ASCII-DOS.png"><img src="charsets/ASCII-DOS.png" alt="DOS characters in DOS" width=200></a>
+<a href="charsets/codepages1.png"><img src="charsets/codepages1.png" alt="Central European and KOI8-R pages" width=200></a>
+<a href="charsets/codepages2.png"><img src="charsets/codepages2.png" alt="Icelandic, Nordic, Greek and Windows 1252" width=200></a>
+
+## EBCDIC
+<a href="charsets/EBCDIC.png"><img src="charsets/EBCDIC.png" alt="Extended Binary Coded Decimal Interchange Code" width=200></a>
+<a href="charsets/apl0293.png"><img src="charsets/apl0293.png" alt="A Programming Language - EBCDIC cp 293" width=200></a>
+
+## Misc
+<a href="charsets/PETSCII.png"><img src="charsets/PETSCII.png" alt="PETSCII" width=200></a>
+
+
+---
+
 # File formats
 ## Minimalists
 
