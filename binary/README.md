@@ -18,7 +18,7 @@ Image
 
 Portable PixMap
 
-[Examples](basics/examples)
+[Examples](basics/example) 
 
 <a href="basics/ppm1.pdf"><img src="basics/ppm1.png" width="300" alt="Portable PixMap 1/2"></a>
 <a href="basics/ppm2.pdf"><img src="basics/ppm2.png" width="300" alt="Portable PixMap 2/2"></a>
