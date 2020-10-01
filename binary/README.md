@@ -26,7 +26,7 @@ Portable PixMap
 
 ---
 
-# Charsets and encodings
+# Charsets and encoding
 
 ## ASCII
 <a href="charsets/ASCIIprintable.png"><img src="charsets/ASCIIprintable.png" alt="printable ASCII" width=200></a>
