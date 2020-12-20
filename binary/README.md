@@ -83,6 +83,15 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 
 <a href="BZ2.png"><img src="BZ2.png" width="200"></a>
 
+The WAD format as an archive
+
+<a href="wad_structure.png"><img src="wad_structure.png" width="300"></a>
+
+
+The WAD format as used in Doom
+
+<a href="wad.png"><img src="wad.png" width="300"></a>
+
 ### Others
 <a href="PDF.png"><img src="PDF.png" width="200"></a>
 <a href="x64.png"><img src="x64.png" width="200"></a>
