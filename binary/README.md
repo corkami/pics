@@ -73,7 +73,7 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 <a href="TIFF_LE.png"><img src="TIFF_LE.png" width="200"></a>
 <a href="TIFF_BE.png"><img src="TIFF_BE.png" width="200"></a>
 <a href="PNG.png"><img src="PNG.png" width="200"></a>
-<a href="JPG.pdf"><img src="JPG.png" width="200"></a>
+<a href="JPG.png"><img src="JPG.png" width="200"></a>
 
 ### Archives
 <a href="ZIP.png"><img src="ZIP.png" width="200"></a>
