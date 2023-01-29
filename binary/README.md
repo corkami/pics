@@ -88,14 +88,14 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 <a href="GZip.png"><img src="GZip.png" width="200"></a>
 
 <a href="ar.png"><img src="ar.png" width="200"></a>
-<a href="arj.png"><img src="arj.png" width="200"></a>
-<a href="7zip.png"><img src="7zip.png" width="200"></a>
 <a href="xz.png"><img src="xz.png" width="200"></a>
 
 <a href="rar14.png"><img src="rar14.png" width="200"></a>
 <a href="rar4.png"><img src="rar4.png" width="200"></a>
 <a href="rar5.png"><img src="rar5.png" width="200"></a>
 
+<a href="arj.png"><img src="arj.png" width="200"></a>
+<a href="7zip.png"><img src="7zip.png" width="200"></a>
 <a href="BZ2.png"><img src="BZ2.png" width="200"></a>
 
 The WAD format as an archive
