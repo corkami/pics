@@ -1,7 +1,3 @@
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
-
----
-
 # Basics of computing
 
 Hexadecimal
@@ -74,11 +70,13 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 <a href="TIFF_BE.png"><img src="TIFF_BE.png" width="200"></a>
 <a href="PNG.png"><img src="PNG.png" width="200"></a>
 <a href="JPG.png"><img src="JPG.png" width="200"></a>
+<a href="dicom.png"><img src="dicom.png" width="200"></a>
 
 <a href="pcx16.png"><img src="pcx16.png" width="200"></a>
 <a href="pcx256.png"><img src="pcx256.png" width="200"></a>
 
 ### Videos
+<a href="mkv.png"><img src="mkv.png" width="200"></a>
 <a href="mp4.png"><img src="mp4.png" width="200"></a>
 
 <a href="y4m_mono.png"><img src="y4m_mono.png" width="200"></a>
@@ -88,7 +86,15 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 <a href="ZIP.png"><img src="ZIP.png" width="200"></a>
 <a href="TAR.png"><img src="TAR.png" width="200"></a>
 <a href="GZip.png"><img src="GZip.png" width="200"></a>
-<a href="RAR.png"><img src="RAR.png" width="200"></a>
+
+<a href="ar.png"><img src="ar.png" width="200"></a>
+<a href="arj.png"><img src="arj.png" width="200"></a>
+<a href="7zip.png"><img src="7zip.png" width="200"></a>
+<a href="xz.png"><img src="xz.png" width="200"></a>
+
+<a href="rar14.png"><img src="rar14.png" width="200"></a>
+<a href="rar4.png"><img src="rar4.png" width="200"></a>
+<a href="rar5.png"><img src="rar5.png" width="200"></a>
 
 <a href="BZ2.png"><img src="BZ2.png" width="200"></a>
 
@@ -160,6 +166,3 @@ or 'with descriptions' formats
 Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....
 
 <a href="CryptoModes.png"><img src="CryptoModes.png" width="200"></a>
-
----
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).

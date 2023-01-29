@@ -1,5 +1,3 @@
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
-
 # Posters
 
 ---
@@ -42,6 +40,3 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 ---
 # Comics
 <a href="Comics/Expectations and Reality.pdf"><img src="Comics/Expectations and Reality.png" width="300" alt="Expectations and Reality"></a>
-
----
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).

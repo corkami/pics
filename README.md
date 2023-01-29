@@ -1,9 +1,6 @@
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
-
----
 Welcome!
 
-## <a href="binary/README.md">Binary posters (#76, 2022-12-26)
+## <a href="binary/README.md">83 binary posters (2023-01-29)
 <img src="binary/mp4.png" width="300"> <img src="binary/JPG.png" width="300">
 
 <img src="binary/PDF.png" width="200"> <img src="binary/charsets/ASCIIprintable.png" width="200">
@@ -22,8 +19,3 @@ Welcome!
 ## <a href="outline/README.md">9 outlines (2016-11-29)
 <img src="outline/AtariCX30.png" width="100"> <img src="outline/rob.png" width="100">
 </a>
-
----
-Ange
-
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).

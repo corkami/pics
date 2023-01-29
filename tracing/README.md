@@ -1,7 +1,4 @@
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
-
----
-# tracings
+# Tracings
 
 ---
 <a href="rfc791.pdf"><img src="rfc791.png" width="200" alt="Internet Protocol Datagram - RFC791"></a>
@@ -92,6 +89,3 @@ Beagle Bros & Polarware
 # LaTeX
 
 <a href="aclu.pdf"><img src="aclu.png" width="200" alt="an ACLU ad"></a>
-
----
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).

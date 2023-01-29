@@ -1,5 +1,3 @@
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
-
 # Outlines
 
 ---
@@ -14,6 +12,3 @@ Support me: order [prints](http://prints.corkami.com/), check my [patreon](https
 <a href="NesPad.pdf"><img src="NesPad.png" width="200" alt="NES pad"></a>
 <a href="SnesPad.pdf"><img src="SnesPad.png" width="200" alt="SNES pad "></a>
 <a href="PowerGlove.pdf"><img src="PowerGlove.png" width="250" alt="Power Glove"></a>
-
----
-Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
