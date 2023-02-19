@@ -64,7 +64,11 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 <a href="XBM.png"><img src="XBM.png" width="200"></a>
 <a href="PGM.png"><img src="PGM.png" width="200"></a>
 <a href="PPM.png"><img src="PPM.png" width="200"></a>
-<a href="BMP.png"><img src="BMP.png" width="200"></a>
+
+<a href="bmp1.png"><img src="bmp1.png" width="200"></a>
+<a href="bmp3.png"><img src="bmp3.png" width="200"></a>
+<a href="bmp5.png"><img src="bmp5.png" width="200"></a>
+
 <a href="GIF.png"><img src="GIF.png" width="200"></a>
 <a href="TIFF_LE.png"><img src="TIFF_LE.png" width="200"></a>
 <a href="TIFF_BE.png"><img src="TIFF_BE.png" width="200"></a>
@@ -74,6 +78,9 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 
 <a href="pcx16.png"><img src="pcx16.png" width="200"></a>
 <a href="pcx256.png"><img src="pcx256.png" width="200"></a>
+
+<a href="ico_bmp.png"><img src="ico_bmp.png" width="200"></a>
+<a href="ico_png.png"><img src="ico_png.png" width="200"></a>
 
 ### Videos
 <a href="mkv.png"><img src="mkv.png" width="200"></a>
@@ -89,6 +96,7 @@ Dissection of a minimal PoC (if possible not empty: "Hello World", a few pixels.
 
 <a href="ar.png"><img src="ar.png" width="200"></a>
 <a href="xz.png"><img src="xz.png" width="200"></a>
+<a href="cab.png"><img src="cab.png" width="200"></a>
 
 <a href="rar14.png"><img src="rar14.png" width="200"></a>
 <a href="rar4.png"><img src="rar4.png" width="200"></a>
@@ -107,12 +115,21 @@ The WAD format as used in Doom
 
 <a href="wad.png"><img src="wad.png" width="300"></a>
 
-### Others
+### Documents
 <a href="PDF.png"><img src="PDF.png" width="200"></a>
+<a href="rtf.png"><img src="rtf.png" width="200"></a>
+<a href="cfb.png"><img src="cfb.png" width="200"></a>
+<a href="docx.png"><img src="docx.png" width="200"></a>
+<a href="one.png"><img src="one.png" width="200"></a>
+<a href="chm.png"><img src="chm.png" width="200"></a>
+
+### Sound
+<a href="WAV.png"><img src="WAV.png" width="200"></a>
+
+### Others
+<a href="lnk.png"><img src="lnk.png" width="200"></a>
 <a href="x64.png"><img src="x64.png" width="200"></a>
 <a href="x86.png"><img src="x86.png" width="200"></a>
-
-<a href="WAV.png"><img src="WAV.png" width="200"></a>
 
 ## 101
 
