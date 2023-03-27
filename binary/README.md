@@ -154,7 +154,7 @@ Copy [files] In & out [of archives]:
 - <a href="7zip.png"><img src="7zip.png" width="200"></a>7zip
 
 - <a href="cab.png"><img src="cab.png" width="200"></a>cab  - Microsoft Cabinet File (MSCF)
-- <a href="rpm.png"><img src="rpm.png" width="200"></a>RPM  - Redhat/RPM Packet Manager
+- <a href="rpm.png"><img src="rpm.png" width="200"></a>RPM  - Redhat/RPM Package Manager
 
 Rar - Roschal Archive:
 - <a href="rar14.png"><img src="rar14.png" width="200"></a>v1.4
