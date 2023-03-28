@@ -48,28 +48,28 @@ EBCDIC: Extended Binary Coded Decimal Interchange Code
 # File formats
 
 Containers:
-- IFF: EA Interchange File Format 1985
-- RIFF: Resource Interchange File Format
-- EBML: Extensible Binary Meta Language
-- ISOBMFF: ISO Base Media File Format
+- IFF: EA Interchange File Format (1985)
+- RIFF: Resource Interchange File Format (1991)
+- CFB: Compound file binary (DOCFILE / D0CF11E) (1997-2004)
+- EBML: Extensible Binary Meta Language (2002)
+- ISOBMFF: ISO Base Media File Format (2004?)
 
 
 ## Executables
-
 - <a href="ELF.png"><img src="ELF.png" width="200"></a>ELF - Executable and linkable format
 
 ### Microsoft
-- <a href="COM.png"><img src="COM.png" width="200"></a>COM (Dos [transient] commands)
-- <a href="exe.png"><img src="exe.png" width="200"></a>EXE (Dos MZ executable)
+- <a href="COM.png"><img src="COM.png" width="200"></a>Com (Dos [transient] commands)
+- <a href="exe.png"><img src="exe.png" width="200"></a>Exe - MZ executable [DOS] (1981-)
 - <a href="exestub.png"><img src="exestub.png" width="200"></a>EXE (PE Dos Stub)
-- <a href="pifdos.png"><img src="pifdos.png" width="200"></a> PIF (Program information File)
-- <a href="ne.png"><img src="ne.png" width="200"></a> NE (New Executable)
-- <a href="le.png"><img src="le.png" width="200"></a> LE (Linear Executable)
-- <a href="PE.png"><img src="PE.png" width="200"></a> PE (Portable executable)
+- <a href="pifdos.png"><img src="pifdos.png" width="200"></a>Pif - Program information File (Windows 1-, 1985-)
+- <a href="ne.png"><img src="ne.png" width="200"></a>NE - New Executable (Windows 1-2000, 1985-2000)
+- <a href="le.png"><img src="le.png" width="200"></a>LE - Linear Executable
+- <a href="PE.png"><img src="PE.png" width="200"></a>PE - Portable executable (Windows NT 3.1-, 1993-)
 
 ### Apple
-- <a href="rfrk.png"><img src="rfrk.png" width="200"></a>Rsrc - Resource fork (Mac System 1-)
-- <a href="pef.png"><img src="pef.png" width="200"></a>PEF - Preferred Executable Format (Mac System 7-9)
+- <a href="rfrk.png"><img src="rfrk.png" width="200"></a>Rsrc - Resource fork (Mac System 1-, 1984)
+- <a href="pef.png"><img src="pef.png" width="200"></a>Pef - Preferred Executable Format (Mac System 7-9 , 1991-1999)
 
 Macho - Mach Object (NeXTSTEP, MacOS, iOS)
 - <a href="MachO.png"><img src="MachO.png" width="200"></a>(Little 32b)
@@ -80,138 +80,153 @@ Macho - Mach Object (NeXTSTEP, MacOS, iOS)
 - <a href="fatmacho.png"><img src="fatmacho.png" width="200"></a>Fat/Universal Mach-o
 
 ### Others
-- <a href="CLASS.png"><img src="CLASS.png" width="200"></a>Class - Java / JVM
-- <a href="SWF.png"><img src="SWF.png" width="200"></a>SWF - ShockWave Flash / Small web file
-- <a href="DOL.png"><img src="DOL.png" width="200"></a>DOL - Nintendo Dolphin
-- <a href="DalvikEXecutable.pdf"><img src="DEX.png" width="200"></a> DEX - Dalvik Executable
+- <a href="CLASS.png"><img src="CLASS.png" width="200"></a>Class - Java / JVM (1994)
+- <a href="DalvikEXecutable.pdf"><img src="DEX.png" width="200"></a>DEX - Dalvik Executable [Android] (2008?)
+- <a href="SWF.png"><img src="SWF.png" width="200"></a>Swf - ShockWave Flash / Small web file (1995?)
 
-- <a href="off.png"><img src="off.png" width="200"></a>OFF - OS/360 Object File format (EBCDIC)
-- <a href="te.png"><img src="te.png" width="200"></a>TE - UEFI Terse Executable
-- <a href="tos.png"><img src="tos.png" width="200"></a>TOS - Atari ST GEMDOS Program format
-- <a href="hunk.png"><img src="hunk.png" width="200"></a>HUNK - Amiga Hunk
+- <a href="DOL.png"><img src="DOL.png" width="200"></a>Dol - Nintendo Dolphin (Gamecube, Wii, 2001-2017)
 
+- <a href="off.png"><img src="off.png" width="200"></a>OFF - OS/360 Object File format [EBCDIC] (1966?)
+- <a href="tos.png"><img src="tos.png" width="200"></a>Tos - GEMDOS Program format [Atari ST]
+- <a href="hunk.png"><img src="hunk.png" width="200"></a>Hunk - Amiga Hunk [Commodore AmigaOS]
+
+- <a href="te.png"><img src="te.png" width="200"></a>TE - Terse Executable [UEFI]
+- <a href="wasm.png"><img src="wasm.png" width="200"></a>Wasm - WebAssembly (2017)
 
 ## Images
-- <a href="PNG.png"><img src="PNG.png" width="200"></a>PNG - Portable Network graphics
-- <a href="JPG.png"><img src="JPG.png" width="200"></a>JPEG (JFIF) - Joint Photographic Experts Group - File Interchange Format
-- <a href="dicom.png"><img src="dicom.png" width="200"></a>DICOM - Digital Imaging and Communications in Medicine
+- <a href="PNG.png"><img src="PNG.png" width="200"></a>Png - Portable Network graphics (1996)
+- <a href="JPG.png"><img src="JPG.png" width="200"></a>Jpeg (JFIF) - Joint Photographic Experts Group - File Interchange Format
+- <a href="dicom.png"><img src="dicom.png" width="200"></a>Dicom - Digital Imaging and Communications in Medicine
 
-- <a href="XBM.png"><img src="XBM.png" width="200"></a>XBM - X BitMap
+- <a href="XBM.png"><img src="XBM.png" width="200"></a>Xbm - X BitMap (X11 1989)
 
-- <a href="PGM.png"><img src="PGM.png" width="200"></a>PGM - Portable Graymap
-- <a href="PPM.png"><img src="PPM.png" width="200"></a>PPM - Portable Pixmap
+Netpbm (1988)
+- <a href="PGM.png"><img src="PGM.png" width="200"></a>Pgm - Portable Graymap
+- <a href="PPM.png"><img src="PPM.png" width="200"></a>Ppm - Portable Pixmap
 
-- <a href="lbm.png"><img src="lbm.png" width="200"></a> LBM - Interleaved Bitmap [IFF]
+- <a href="lbm.png"><img src="lbm.png" width="200"></a>[I]Lbm - Interleaved Bitmap [IFF] (1985)
 
-BMP - Bitmap
-- <a href="bmp1.png"><img src="bmp1.png" width="200"></a> v1
-- <a href="bmp3.png"><img src="bmp3.png" width="200"></a> v3
-- <a href="bmp5.png"><img src="bmp5.png" width="200"></a> v5
+BMP - Bitmap [Windows 2 (1987)]
+- <a href="bmp1.png"><img src="bmp1.png" width="200"></a>v1
+- <a href="bmp3.png"><img src="bmp3.png" width="200"></a>v3
+- <a href="bmp5.png"><img src="bmp5.png" width="200"></a>v5
 
-- <a href="GIF.png"><img src="GIF.png" width="200"></a>GIF - Graphics Interchange Format
+- <a href="GIF.png"><img src="GIF.png" width="200"></a>Gif - Graphics Interchange Format (1987)
 
-TIFF - Tag Image File Format
+TIFF - Tag Image File Format (1986)
 - <a href="TIFF_LE.png"><img src="TIFF_LE.png" width="200"></a>little endian
 - <a href="TIFF_BE.png"><img src="TIFF_BE.png" width="200"></a>big endian
 
-
-PCX - Picture exchange
-- <a href="pcx16.png"><img src="pcx16.png" width="200"></a>  16 colors
+PCX - Zsoft Picture exchange [DOS] (1982)
+- <a href="pcx16.png"><img src="pcx16.png" width="200"></a>16 colors
 - <a href="pcx256.png"><img src="pcx256.png" width="200"></a>256 colors
+
+- <a href="tga.png"><img src="tga.png" width="200"></a>TGA/TARGA - TrueVision [Advanced Raster] Graphics Adapter (1984)
 
 ICO - Windows icon
 - <a href="ico_bmp.png"><img src="ico_bmp.png" width="200"></a> w/ BMP
 - <a href="ico_png.png"><img src="ico_png.png" width="200"></a> w/ PNG
 
-- <a href="pifimg.png"><img src="pifimg.png" width="200"></a>PIF - Portable Image Format
-- <a href="qoi.png"><img src="qoi.png" width="200"></a>qoi - Quite Ok Image
+- <a href="pifimg.png"><img src="pifimg.png" width="200"></a>Pif - Portable Image Format (2022)
+- <a href="qoi.png"><img src="qoi.png" width="200"></a>Qoi - Quite Ok Image (2021)
 - <a href="1ba.png"><img src="1ba.png" width="200"></a>1ba - 1-bit animation
 
 
 ## Videos
-- <a href="mkv.png"><img src="mkv.png" width="200"></a>MKV - Matroska video [EBML]
-- <a href="mp4.png"><img src="mp4.png" width="200"></a>MP4 [ISOBMFF]
+- <a href="mp4.png"><img src="mp4.png" width="200"></a>Mp4 [ISOBMFF] (2001)
+- <a href="mkv.png"><img src="mkv.png" width="200"></a>Mkv - Matroska video [EBML] (2002)
 
-- <a href="y4m_mono.png"><img src="y4m_mono.png" width="200"></a> Y4M - Yuv4mpeg2 mono
-- <a href="y4m_yuv.png"><img src="y4m_yuv.png" width="200"></a>   Y4M - Yuv4mpeg2 yuv
+Y4M - Yuv4mpeg2
+- <a href="y4m_mono.png"><img src="y4m_mono.png" width="200"></a>(mono)
+- <a href="y4m_yuv.png"><img src="y4m_yuv.png" width="200"></a>(yuv)
 
 
 ## Archives
 
 - [Zlib/Deflate/Zip/GZIP?](https://speakerdeck.com/ange/gzip-equals-zip-equals-zlib-equals-deflate)
-- <a href="GZip.png"><img src="GZip.png" width="200"></a>Gzip - GNU zip
+- <a href="GZip.png"><img src="GZip.png" width="200"></a>Gzip - GNU zip (1992)
 
-- <a href="TAR.png"><img src="TAR.png" width="200"></a>TAR  - Tape archive
+- <a href="ar.png"><img src="ar.png" width="200"></a>Ar - Archive (1971)
+- <a href="TAR.png"><img src="TAR.png" width="200"></a>Tar - Tape archive (1979)
 
-
-Copy [files] In & out [of archives]:
+Copy [files] In & out [of archives] (1977)
 - <a href="cpio_bin.png"><img src="cpio_bin.png" width="200"></a>binary
 - <a href="cpio_ascii.png"><img src="cpio_ascii.png" width="200"></a>ASCII
 
-- <a href="ZIP.png"><img src="ZIP.png" width="200"></a>ZIP  - PKZIP
+- <a href="ZIP.png"><img src="ZIP.png" width="200"></a>Zip - PkZip (1989)
 
-- <a href="xz.png"><img src="xz.png" width="200"></a>XZ
-- <a href="7zip.png"><img src="7zip.png" width="200"></a>7zip
+- <a href="lzma.png"><img src="lzma.png" width="300"></a>Lzma - Lempel-Ziv-Markov chain algorithm (1998)
+  - <a href="lzma_eos.png"><img src="lzma_eos.png" width="300"></a>Lzma - Lempel-Ziv-Markov chain algorithm (with End of Stream marker)
+- <a href="7zip.png"><img src="7zip.png" width="200"></a>7zip (1999)
+- <a href="xz.png"><img src="xz.png" width="200"></a>Xz (2009)
 
-- <a href="cab.png"><img src="cab.png" width="200"></a>cab  - Microsoft Cabinet File (MSCF)
-- <a href="rpm.png"><img src="rpm.png" width="200"></a>RPM  - Redhat/RPM Package Manager
+- <a href="cab.png"><img src="cab.png" width="200"></a>Cab - Microsoft Cabinet File (Mscf) (1995?)
+- <a href="rpm.png"><img src="rpm.png" width="200"></a>Rpm - Redhat/RPM Package Manager (1997)
 
-Rar - Roschal Archive:
+Rar - Roschal Archive (1995)
 - <a href="rar14.png"><img src="rar14.png" width="200"></a>v1.4
 - <a href="rar4.png"><img src="rar4.png" width="200"></a>v4
 - <a href="rar5.png"><img src="rar5.png" width="200"></a>v5
 
-- <a href="arj.png"><img src="arj.png" width="200"></a>Arj - Archived by Robert Jung
-- <a href="BZ2.png"><img src="BZ2.png" width="200"></a>bz2 - Bzip2
+- <a href="arj.png"><img src="arj.png" width="200"></a>Arj - Archived by Robert Jung (1991?)
+- <a href="BZ2.png"><img src="BZ2.png" width="200"></a>bz2 - Bzip2 (1996)
 
-Wad - Where's all the data:
-- <a href="wad_structure.png"><img src="wad_structure.png" width="300"></a> (structure)
-- <a href="wad.png"><img src="wad.png" width="300"></a>                     (in Doom)
+Wad - Where's all the data? (1993)
+- <a href="wad_structure.png"><img src="wad_structure.png" width="300"></a>(structure)
+- <a href="wad.png"><img src="wad.png" width="300"></a>(in Doom)
 
-- <a href="lzma.png"><img src="lzma.png" width="300"></a>Lzma - Lempel-Ziv-Markov chain algorithm
-  - <a href="lzma_eos.png"><img src="lzma_eos.png" width="300"></a>Lzma - Lempel-Ziv-Markov chain algorithm (with End of Stream marker)
 
-- <a href="zstd.png"><img src="zstd.png" width="300"></a>Zstd - Zstandard
+- <a href="zstd.png"><img src="zstd.png" width="300"></a>Zstd - Zstandard (2015)
   - <a href="zstd_skip.png"><img src="zstd_skip.png" width="300"></a>w/ Skippable frame
-- <a href="lz4.png"><img src="lz4.png" width="300"></a>LZ4
+- <a href="lz4.png"><img src="lz4.png" width="300"></a>LZ4 (2011)
 
 
 ## Documents
-- <a href="PDF.png"><img src="PDF.png" width="200"></a>PDF - Portable document format
-- <a href="rtf.png"><img src="rtf.png" width="200"></a>RTF - Rich text format
+- <a href="PDF.png"><img src="PDF.png" width="200"></a>Pdf - Portable document format (1992)
+- <a href="rtf.png"><img src="rtf.png" width="200"></a>RTF - Rich text format (1987)
 
-- <a href="cfb.png"><img src="cfb.png" width="200"></a>CFB - Compound file binary (DOCFILE / D0CF11E)
-- <a href="wordml.png"><img src="wordml.png" width="200"></a>Docm - WordML/WordProcessingML (Microsoft Office XML format)- XML
+- <a href="cfb.png"><img src="cfb.png" width="200"></a>Msi - Microsoft Installer [CFB]
+- <a href="wordml.png"><img src="wordml.png" width="200"></a>Docm - WordML/WordProcessingML (Microsoft Office XML format) - XML
   - <a href="activemime.png"><img src="activemime.png" width="200"></a>ActiveMime - MSO XML Bindata
 - <a href="docx.png"><img src="docx.png" width="200"></a>Docx - Doc XML (Office Open XML) - ZIP+XMLs
 
 Multiplan - Excel:
-- <a href="sylk.png"><img src="sylk.png" width="200"></a>Sylk - Symbolic link
-- <a href="biff2.png"><img src="biff2.png" width="200"></a>Biff - Binary Interchange File Format v2
-- <a href="biff8.png"><img src="biff8.png" width="200"></a>Biff - Binary Interchange File Format v8
+- <a href="sylk.png"><img src="sylk.png" width="200"></a>Sylk - Symbolic link - Multiplan 1 (1984-), Excel 1 (1986-)
 
-- <a href="chm.png"><img src="chm.png" width="200"></a>CHM - Compiled HTML help - Info-Tech Storage Format
-- <a href="one.png"><img src="one.png" width="200"></a>One - One Note
+Biff - Binary Interchange File Format
+- <a href="biff2.png"><img src="biff2.png" width="200"></a>v2: v2, 1989 (raw)
+- <a href="biff8.png"><img src="biff8.png" width="200"></a>v8: 97-2003, 1998-2004 [CFB]
 
-- <a href="wmf.png"><img src="wmf.png" width="200"></a>WMF - Windows Metafile Format with Placeable header
-- <a href="wmf2.png"><img src="wmf2.png" width="200"></a>WMF - Windows Metafile Format
-- <a href="emf.png"><img src="emf.png" width="200"></a>EMF - Enhanced Metafile Format
+- <a href="chm.png"><img src="chm.png" width="200"></a>CHM - Compiled HTML help - Info-Tech Storage Format (1997)
+- <a href="one.png"><img src="one.png" width="200"></a>One - One Note (2014-)
+
+Wmf - Windows Metafile Format (1992)
+- <a href="wmf2.png"><img src="wmf2.png" width="200"></a>
+- <a href="wmf.png"><img src="wmf.png" width="200"></a> with Placeable header
+
+- <a href="emf.png"><img src="emf.png" width="200"></a>Emf - Enhanced Metafile Format (1993)
 
 ## Sound
-- <a href="8svx.png"><img src="8svx.png" width="200"></a>8svx - 8-bit sample voice [AMIGA][IFF]
-- <a href="aiff.png"><img src="aiff.png" width="200"></a>Audio interchange file format [APPLE][IFF]
-  - <a href="aiffc.png"><img src="aiffc.png" width="200"></a> Audio interchange file format Compressed [APPLE][IFF]
-- <a href="WAV.png"><img src="WAV.png" width="200"></a> WAV - Waveform [RIFF]
-- <a href="rmi.png"><img src="rmi.png" width="200"></a>  rmi - Riff Midi [RIFF]
+- <a href="8svx.png"><img src="8svx.png" width="200"></a>8svx - 8-bit sample voice [Amiga][Iff] (1985)
+
+AIFF - Audio interchange file format [Apple][Iff] (1988)
+- <a href="aiff.png"><img src="aiff.png" width="200"></a>
+  - <a href="aiffc.png"><img src="aiffc.png" width="200"></a>AIFFC - Compressed
+
+- <a href="WAV.png"><img src="WAV.png" width="200"></a>Wav - Waveform [Riff] (1991)
+- <a href="rmi.png"><img src="rmi.png" width="200"></a>Rmi - Riff Midi [Riff]
 
 - <a href="midi.png"><img src="midi.png" width="200"></a>Midi - Musical Instrument Digital Interface
 
 
 ## Others
-- <a href="lnk.png"><img src="lnk.png" width="200"></a>LNK - Shell link [Windows]
-- <a href="cdix.png"><img src="cdix.png" width="200"></a>cdix - ClangD Index [RIFF]
-- <a href="hex.png"><img src="hex.png" width="200"></a> Hex records - Intel[lec] Hexadecimal object
-- <a href="u2f.png"><img src="u2f.png" width="200"></a> U2B - USB Flashing format
+- <a href="mbr.png"><img src="mbr.png" width="200"></a>Mbr+DPT - Master Boot Record with Disk Partitions Table (1983)
+
+- <a href="lnk.png"><img src="lnk.png" width="200"></a>Lnk - Shell link [Windows]
+- <a href="cdix.png"><img src="cdix.png" width="200"></a>Cdix - ClangD Index [Riff] (2018)
+
+- <a href="hex.png"><img src="hex.png" width="200"></a> Hex records - Intel[lec] Hexadecimal object (1973)
+- <a href="uf2.png"><img src="uf2.png" width="200"></a> Uf2 - USB Flashing format (2016)
 
 
 Opcodes:
