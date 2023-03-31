@@ -84,7 +84,9 @@ Macho - Mach Object (NeXTSTEP, MacOS, iOS)
 - <a href="DalvikEXecutable.pdf"><img src="DEX.png" width="200"></a>DEX - Dalvik Executable [Android] (2008?)
 - <a href="SWF.png"><img src="SWF.png" width="200"></a>Swf - ShockWave Flash / Small web file (1995?)
 
-- <a href="DOL.png"><img src="DOL.png" width="200"></a>Dol - Nintendo Dolphin (Gamecube, Wii, 2001-2017)
+Dol - Nintendo Dolphin (Gamecube, Wii, 2001-2017)
+- <a href="dol.png"><img src="dol.png" width="200"></a>executable
+- <a href="dolhdr.png"><img src="dolhdr.png" width="200"></a>Complete header
 
 - <a href="off.png"><img src="off.png" width="200"></a>OFF - OS/360 Object File format [EBCDIC] (1966?)
 - <a href="tos.png"><img src="tos.png" width="200"></a>Tos - GEMDOS Program format [Atari ST]
