@@ -84,6 +84,7 @@ Containers:
 - Dol - Nintendo Dolphin (Gamecube, Wii, 2001-2017)
   - <a href="dol.png"><img src="dol.png" width="200"></a>executable
   - <a href="dolhdr.png"><img src="dolhdr.png" width="200"></a>complete header
+- <a href="nro.png"><img src="nro.png" width="200"></a>NRO - NX (Nintendo Switch) Relocatable Object
 
 - <a href="off.png"><img src="off.png" width="200"></a>OFF - OS/360 Object File format [EBCDIC] (1966?)
 - <a href="tos.png"><img src="tos.png" width="200"></a>Tos - GEMDOS Program format [Atari ST] (1985)
