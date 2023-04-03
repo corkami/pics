@@ -111,7 +111,9 @@ Containers:
   - <a href="bmp3.png"><img src="bmp3.png" width="200"></a>v3 (1991)
   - <a href="bmp5.png"><img src="bmp5.png" width="200"></a>v5 (1998)
 
-- <a href="GIF.png"><img src="GIF.png" width="200"></a>Gif - Graphics Interchange Format (1987)
+Gif - Graphics Interchange Format (1987)
+- <a href="gif87.png"><img src="gif87.png" width="200"></a>
+- <a href="gif89.png"><img src="gif89.png" width="200"></a>v89, with a comment
 
 - TIFF - Tag Image File Format (1986)
   - <a href="TIFF_LE.png"><img src="TIFF_LE.png" width="200"></a>little endian
