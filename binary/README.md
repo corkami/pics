@@ -188,6 +188,7 @@ Wad - Where's all the data? (1993)
 
 
 ## Documents
+- <a href="eps.png"><img src="eps.png" width="200"></a>Eps - Encapsulated PostScript (1987)
 - <a href="PDF.png"><img src="PDF.png" width="200"></a>Pdf - Portable document format (1992)
 - <a href="rtf.png"><img src="rtf.png" width="200"></a>RTF - Rich text format (1987)
 
@@ -293,3 +294,5 @@ or 'with descriptions' formats
 Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....
 
 <a href="CryptoModes.png"><img src="CryptoModes.png" width="200"></a>
+
+<!-- pandoc -s -f gfm -t html README.md -o README.html -->
