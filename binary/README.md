@@ -97,6 +97,7 @@ Containers:
 - <a href="PNG.png"><img src="PNG.png" width="200"></a>Png - Portable Network graphics (1996)
 - <a href="JPG.png"><img src="JPG.png" width="200"></a>Jpeg (JFIF) - Joint Photographic Experts Group - File Interchange Format (1992)
 - <a href="dicom.png"><img src="dicom.png" width="200"></a>Dicom - Digital Imaging and Communications in Medicine (1985)
+- <a href="psd.png"><img src="psd.png" width="200"></a>Psd - PhotoShop Document (1990)
 
 - <a href="XBM.png"><img src="XBM.png" width="200"></a>Xbm - X BitMap (X11 1989)
 
