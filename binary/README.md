@@ -227,6 +227,10 @@ Multiplan - Excel:
 
 - <a href="midi.png"><img src="midi.png" width="200"></a>Midi - Musical Instrument Digital Interface
 
+## Metadata
+- <a href="psd_iptc.png"><img src="psd_iptc.png" width="200"></a>IPTC IIM / International Press Telecommunications Council - Information Interchange Model (1991)
+- <a href="tiff_exif.png"><img src="tiff_exif.png" width="200"></a>Exif - Exchangeable Image File Format (1995)
+- <a href="xmp.png"><img src="xmp.png" width="200"></a>XMP - Extensible Metadata Platform (2001)
 
 ## Others
 - <a href="mbr.png"><img src="mbr.png" width="200"></a>Mbr+DPT - Master Boot Record with Disk Partitions Table (1983)
