@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>pics</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="basics-of-computing">Basics of computing</h1>
+<p>Hexadecimal <a href="basics/hexadecimal.pdf"><img src="basics/hexadecimal.png" width="300" alt="hexadecimal"></a></p>
+<p>Colors <a href="basics/colors.pdf"><img src="basics/colors.png" width="300" alt="colors"></a></p>
+<p>Image <a href="basics/image.pdf"><img src="basics/image.png" width="300" alt="Image"></a></p>
+<ul>
+<li>Portable PixMap (1988-)
+<ul>
+<li><a href="basics/examples">Examples</a></li>
+<li><a href="basics/ppm1.pdf"><img src="basics/ppm1.png" width="300" alt="Portable PixMap 1/2"></a></li>
+<li><a href="basics/ppm2.pdf"><img src="basics/ppm2.png" width="300" alt="Portable PixMap 2/2"></a></li>
+</ul></li>
+</ul>
+<hr />
+<h1 id="charsets-and-encodings">Charsets and encodings</h1>
+<ul>
+<li><p>ASCII American Standard Code for Information Interchange (1967)</p>
+<ul>
+<li><a href="charsets/ASCIIprintable.png"><img src="charsets/ASCIIprintable.png" alt="printable ASCII" width=200></a>printable</li>
+<li><a href="charsets/ASCII.png"><img src="charsets/ASCII.png" alt="complete ASCII" width=200></a>complete</li>
+</ul></li>
+<li><p>Code Pages</p>
+<ul>
+<li><a href="charsets/ASCII-DOS.png"><img src="charsets/ASCII-DOS.png" alt="DOS characters in DOS" width=200></a>IBM PC cp437</li>
+<li><a href="charsets/codepages2.png"><img src="charsets/codepages2.png" alt="Icelandic, Nordic, Greek and Windows 1252" width=200></a>Icelandic cp861, Denmark/Norway cp865, Greek cp737 Windows-1252</li>
+<li><a href="charsets/codepages1.png"><img src="charsets/codepages1.png" alt="Central European and KOI8-R pages" width=200></a>Central European cp852, KOI8-R</li>
+</ul></li>
+<li><p><a href="charsets/EBCDIC.png"><img src="charsets/EBCDIC.png" alt="Extended Binary Coded Decimal Interchange Code" width=200></a> EBCDIC: Extended Binary Coded Decimal Interchange Code (1964)</p></li>
+<li><p><a href="charsets/apl0293.png"><img src="charsets/apl0293.png" alt="A Programming Language - EBCDIC cp 293" width=200></a> APL: A Programming Language - EBCDIC CodePage 293 (1966)</p></li>
+<li><p><a href="charsets/PETSCII.png"><img src="charsets/PETSCII.png" alt="PETSCII" width=200></a> PETSCII - PET Standard Code of Information Interchange / CBM ASCII (1977-)</p></li>
+</ul>
+<hr />
+<h1 id="file-formats">File formats</h1>
+<p>Containers:</p>
+<ul>
+<li>IFF: EA Interchange File Format (1985)</li>
+<li>RIFF: Resource Interchange File Format (1991)</li>
+<li>CFBF/CDFv2: Compound file binary format / Composite Document file v2 (DOCFILE / D0CF11E) (1997-2004)</li>
+<li>EBML: Extensible Binary Meta Language (2002)</li>
+<li>ISOBMFF: ISO Base Media File Format (2004?)</li>
+</ul>
+<h2 id="executables">Executables</h2>
+<ul>
+<li><a href="ELF.png"><img src="ELF.png" width="200"></a>ELF - Executable and linkable format</li>
+</ul>
+<h3 id="microsoft">Microsoft</h3>
+<ul>
+<li><p><a href="COM.png"><img src="COM.png" width="200"></a>Com (Dos [transient] commands)</p></li>
+<li><p>Exe - MZ executable [DOS] (1981-)</p>
+<ul>
+<li><a href="exe.png"><img src="exe.png" width="200"></a></li>
+<li><a href="exestub.png"><img src="exestub.png" width="200"></a>EXE (PE Dos Stub)</li>
+</ul></li>
+<li><p><a href="pifdos.png"><img src="pifdos.png" width="200"></a>Pif - Program information File (Windows 1-, 1985-)</p></li>
+<li><p><a href="ne.png"><img src="ne.png" width="200"></a>NE - New Executable (Windows 1-2000, 1985-2000)</p></li>
+<li><p><a href="le.png"><img src="le.png" width="200"></a>LE - Linear Executable (DOS, 1992)</p></li>
+<li><p><a href="PE.png"><img src="PE.png" width="200"></a>PE - Portable executable (Windows NT 3.1-, 1993-)</p></li>
+</ul>
+<h3 id="apple">Apple</h3>
+<ul>
+<li><p><a href="rfrk.png"><img src="rfrk.png" width="200"></a>Rsrc - Resource fork (Mac System 1-, 1984)</p></li>
+<li><p><a href="pef.png"><img src="pef.png" width="200"></a>Pef - Preferred Executable Format (Mac System 7-9 , 1991-1999)</p></li>
+<li><p>Macho - Mach Object (NeXTSTEP, MacOS, iOS)</p>
+<ul>
+<li><a href="MachO.png"><img src="MachO.png" width="200"></a>(Little 32b)</li>
+<li><a href="macho64.png"><img src="macho64.png" width="200"></a>(Little 64b)</li>
+<li><a href="machoppc.png"><img src="machoppc.png" width="200"></a>(Big 32b PowerPC)</li>
+<li><a href="machoppc64.png"><img src="machoppc64.png" width="200"></a>(Big 64b PowerPC)</li>
+</ul></li>
+<li><p><a href="fatmacho.png"><img src="fatmacho.png" width="200"></a>Fat/Universal Mach-o</p></li>
+</ul>
+<h3 id="others">Others</h3>
+<ul>
+<li><p><a href="CLASS.png"><img src="CLASS.png" width="200"></a>Class - Java / JVM (1994)</p></li>
+<li><p><a href="DalvikEXecutable.pdf"><img src="DEX.png" width="200"></a>DEX - Dalvik Executable [Android] (2008?)</p></li>
+<li><p><a href="SWF.png"><img src="SWF.png" width="200"></a>Swf - ShockWave Flash / Small web file (1995?)</p></li>
+<li><p>Dol - Nintendo Dolphin (Gamecube, Wii, 2001-2017)</p>
+<ul>
+<li><a href="dol.png"><img src="dol.png" width="200"></a>executable</li>
+<li><a href="dolhdr.png"><img src="dolhdr.png" width="200"></a>complete header</li>
+</ul></li>
+<li><p><a href="nro.png"><img src="nro.png" width="200"></a>NRO - NX (Nintendo Switch) Relocatable Object</p></li>
+<li><p><a href="off.png"><img src="off.png" width="200"></a>OFF - OS/360 Object File format [EBCDIC] (1966?)</p></li>
+<li><p><a href="tos.png"><img src="tos.png" width="200"></a>Tos - GEMDOS Program format [Atari ST] (1985)</p></li>
+<li><p><a href="hunk.png"><img src="hunk.png" width="200"></a>Hunk - Amiga Hunk [Commodore AmigaOS] (1985)</p></li>
+<li><p><a href="te.png"><img src="te.png" width="200"></a>TE - Terse Executable [UEFI] (2017?)</p></li>
+<li><p><a href="wasm.png"><img src="wasm.png" width="200"></a>Wasm - WebAssembly (2017)</p></li>
+</ul>
+<h2 id="images">Images</h2>
+<ul>
+<li><p><a href="PNG.png"><img src="PNG.png" width="200"></a>Png - Portable Network graphics (1996)</p></li>
+<li><p><a href="JPG.png"><img src="JPG.png" width="200"></a>Jpeg (JFIF) - Joint Photographic Experts Group - File Interchange Format (1992)</p></li>
+<li><p><a href="dicom.png"><img src="dicom.png" width="200"></a>Dicom - Digital Imaging and Communications in Medicine (1985)</p></li>
+<li><p><a href="psd.png"><img src="psd.png" width="200"></a>Psd - PhotoShop Document (1990)</p></li>
+<li><p><a href="XBM.png"><img src="XBM.png" width="200"></a>Xbm - X BitMap (X11 1989)</p></li>
+<li><p>Netpbm (1988)</p>
+<ul>
+<li><a href="PGM.png"><img src="PGM.png" width="200"></a>Pgm - Portable Graymap</li>
+<li><a href="PPM.png"><img src="PPM.png" width="200"></a>Ppm - Portable Pixmap</li>
+</ul></li>
+<li><p><a href="lbm.png"><img src="lbm.png" width="200"></a>[I]Lbm - Interleaved Bitmap [IFF] (1985)</p></li>
+<li><p>BMP - Bitmap [Windows 2 (1987)]</p>
+<ul>
+<li><a href="bmp1.png"><img src="bmp1.png" width="200"></a>v1</li>
+<li><a href="bmp3.png"><img src="bmp3.png" width="200"></a>v3 (1991)</li>
+<li><a href="bmp5.png"><img src="bmp5.png" width="200"></a>v5 (1998)</li>
+</ul></li>
+</ul>
+<p>Gif - Graphics Interchange Format (1987)</p>
+<ul>
+<li><p><a href="gif87.png"><img src="gif87.png" width="200"></a></p></li>
+<li><p><a href="gif89.png"><img src="gif89.png" width="200"></a>v89, with a comment</p></li>
+<li><p>TIFF - Tag Image File Format (1986)</p>
+<ul>
+<li><a href="TIFF_LE.png"><img src="TIFF_LE.png" width="200"></a>little endian</li>
+<li><a href="TIFF_BE.png"><img src="TIFF_BE.png" width="200"></a>big endian</li>
+</ul></li>
+<li><p>PCX - Zsoft Picture exchange [DOS] (1982)</p>
+<ul>
+<li><a href="pcx16.png"><img src="pcx16.png" width="200"></a>16 colors</li>
+<li><a href="pcx256.png"><img src="pcx256.png" width="200"></a>256 colors</li>
+</ul></li>
+<li><p><a href="tga.png"><img src="tga.png" width="200"></a>TGA/TARGA - TrueVision [Advanced Raster] Graphics Adapter (1984)</p></li>
+<li><p>ICO - Windows icon (1985)</p>
+<ul>
+<li><a href="ico_bmp.png"><img src="ico_bmp.png" width="200"></a> w/ BMP (1995?)</li>
+<li><a href="ico_png.png"><img src="ico_png.png" width="200"></a> w/ PNG (2006)</li>
+</ul></li>
+<li><p><a href="pifimg.png"><img src="pifimg.png" width="200"></a>Pif - Portable Image Format (2022)</p></li>
+<li><p><a href="qoi.png"><img src="qoi.png" width="200"></a>Qoi - Quite Ok Image (2021)</p></li>
+<li><p><a href="1ba.png"><img src="1ba.png" width="200"></a>1ba - 1-bit animation (2023)</p></li>
+</ul>
+<h2 id="videos">Videos</h2>
+<ul>
+<li><p><a href="mp4.png"><img src="mp4.png" width="200"></a>Mp4 [ISOBMFF] (2001)</p></li>
+<li><p><a href="mkv.png"><img src="mkv.png" width="200"></a>Mkv - Matroska video [EBML] (2002)</p></li>
+<li><p>Y4M - Yuv4mpeg (2001)</p>
+<ul>
+<li><a href="y4m_mono.png"><img src="y4m_mono.png" width="200"></a>(mono)</li>
+<li><a href="y4m_yuv.png"><img src="y4m_yuv.png" width="200"></a>(yuv)</li>
+</ul></li>
+</ul>
+<h2 id="archives">Archives</h2>
+<ul>
+<li><p><a href="https://speakerdeck.com/ange/gzip-equals-zip-equals-zlib-equals-deflate">Zlib/Deflate/Zip/GZIP?</a></p></li>
+<li><p><a href="GZip.png"><img src="GZip.png" width="200"></a>Gzip - GNU zip (1992)</p></li>
+<li><p><a href="ar.png"><img src="ar.png" width="200"></a>Ar - Archive (1971)</p></li>
+<li><p><a href="TAR.png"><img src="TAR.png" width="200"></a>Tar - Tape archive (1979)</p></li>
+<li><p>Copy [files] In &amp; out [of archives] (1977)</p>
+<ul>
+<li><a href="cpio_bin.png"><img src="cpio_bin.png" width="200"></a>binary</li>
+<li><a href="cpio_ascii.png"><img src="cpio_ascii.png" width="200"></a>ASCII</li>
+</ul></li>
+<li><p><a href="ZIP.png"><img src="ZIP.png" width="200"></a>Zip - PkZip (1989)</p></li>
+<li><p>Lzma - Lempel-Ziv-Markov chain algorithm (1998)</p>
+<ul>
+<li><a href="lzma.png"><img src="lzma.png" width="300"></a></li>
+<li><a href="lzma_eos.png"><img src="lzma_eos.png" width="300"></a>with End of Stream marker</li>
+</ul></li>
+<li><p><a href="7zip.png"><img src="7zip.png" width="200"></a>7zip (1999)</p></li>
+<li><p><a href="xz.png"><img src="xz.png" width="200"></a>Xz (2009)</p></li>
+<li><p><a href="cab.png"><img src="cab.png" width="200"></a>Cab - Microsoft Cabinet File (Mscf) (1995?)</p></li>
+<li><p><a href="rpm.png"><img src="rpm.png" width="200"></a>Rpm - Redhat/RPM Package Manager (1997)</p></li>
+<li><p>Rar - Roschal Archive (1993)</p>
+<ul>
+<li><a href="rar14.png"><img src="rar14.png" width="200"></a>v1.4</li>
+<li><a href="rar4.png"><img src="rar4.png" width="200"></a>v4 (1996)</li>
+<li><a href="rar5.png"><img src="rar5.png" width="200"></a>v5 (2013)</li>
+</ul></li>
+<li><p><a href="arj.png"><img src="arj.png" width="200"></a>Arj - Archived by Robert Jung (1991?)</p></li>
+<li><p><a href="BZ2.png"><img src="BZ2.png" width="200"></a>bz2 - Bzip2 (1996)</p></li>
+</ul>
+<p>Wad - Where's all the data? (1993)</p>
+<ul>
+<li><p><a href="wad_structure.png"><img src="wad_structure.png" width="300"></a>(structure)</p></li>
+<li><p><a href="wad.png"><img src="wad.png" width="300"></a>(in Doom)</p></li>
+<li><p>Zstd - Zstandard (2015)</p>
+<ul>
+<li><a href="zstd.png"><img src="zstd.png" width="300"></a></li>
+<li><a href="zstd_skip.png"><img src="zstd_skip.png" width="300"></a>w/ Skippable frame</li>
+</ul></li>
+<li><p><a href="lz4.png"><img src="lz4.png" width="300"></a>LZ4 (2011)</p></li>
+</ul>
+<h2 id="documents">Documents</h2>
+<ul>
+<li><p><a href="eps.png"><img src="eps.png" width="200"></a>Eps - Encapsulated PostScript (1987)</p></li>
+<li><p><a href="PDF.png"><img src="PDF.png" width="200"></a>Pdf - Portable document format (1992)</p></li>
+<li><p><a href="rtf.png"><img src="rtf.png" width="200"></a>RTF - Rich text format (1987)</p></li>
+<li><p>Microsoft Office</p>
+<ul>
+<li><a href="cfb.png"><img src="cfb.png" width="200"></a>Msi - Microsoft Installer [CFB]</li>
+<li><a href="wordml.png"><img src="wordml.png" width="200"></a>Docm - WordML/WordProcessingML (Microsoft Office XML format) - XML (2002</li>
+<li><a href="activemime.png"><img src="activemime.png" width="200"></a>ActiveMime - MSO XML Bindata</li>
+<li><a href="docx.png"><img src="docx.png" width="200"></a>Docx - Doc XML (Office Open XML) - ZIP+XMLs (2006)</li>
+</ul></li>
+</ul>
+<p>Multiplan - Excel:</p>
+<ul>
+<li><p><a href="sylk.png"><img src="sylk.png" width="200"></a>Sylk - Symbolic link - Multiplan 1 (1984-), Excel 1 (1986-)</p></li>
+<li><p>Biff - Binary Interchange File Format</p>
+<ul>
+<li><a href="biff2.png"><img src="biff2.png" width="200"></a>v2: v2, 1989 (raw)</li>
+<li><a href="biff8.png"><img src="biff8.png" width="200"></a>v8: 97-2003, 1998-2004 [CFB]</li>
+</ul></li>
+<li><p><a href="chm.png"><img src="chm.png" width="200"></a>CHM - Compiled HTML help - Info-Tech Storage Format (1997)</p></li>
+<li><p><a href="one.png"><img src="one.png" width="200"></a>One - One Note (2014-)</p></li>
+<li><p>Wmf - Windows Metafile Format (1992)</p>
+<ul>
+<li><a href="wmf2.png"><img src="wmf2.png" width="200"></a></li>
+<li><a href="wmf.png"><img src="wmf.png" width="200"></a> with Placeable header</li>
+</ul></li>
+<li><p><a href="emf.png"><img src="emf.png" width="200"></a>Emf - Enhanced Metafile Format (1993)</p></li>
+</ul>
+<h2 id="sound">Sound</h2>
+<ul>
+<li><p><a href="8svx.png"><img src="8svx.png" width="200"></a>8svx - 8-bit sample voice [Amiga][Iff] (1985)</p></li>
+<li><p>AIFF - Audio interchange file format [Apple][Iff] (1988)</p>
+<ul>
+<li><a href="aiff.png"><img src="aiff.png" width="200"></a></li>
+<li><a href="aiffc.png"><img src="aiffc.png" width="200"></a>AIFC / AIFF-C - Compressed (1991)</li>
+</ul></li>
+<li><p><a href="WAV.png"><img src="WAV.png" width="200"></a>Wav - Waveform [Riff] (1991)</p></li>
+<li><p><a href="rmi.png"><img src="rmi.png" width="200"></a>Rmi - Riff Midi [Riff]</p></li>
+<li><p><a href="midi.png"><img src="midi.png" width="200"></a>Midi - Musical Instrument Digital Interface</p></li>
+</ul>
+<h2 id="metadata">Metadata</h2>
+<ul>
+<li><a href="psd_iptc.png"><img src="psd_iptc.png" width="200"></a>IPTC IIM / International Press Telecommunications Council - Information Interchange Model (1991)</li>
+<li><a href="tiff_exif.png"><img src="tiff_exif.png" width="200"></a>Exif - Exchangeable Image File Format (1995)</li>
+<li><a href="xmp.png"><img src="xmp.png" width="200"></a>XMP - Extensible Metadata Platform (2001)</li>
+</ul>
+<h2 id="others-1">Others</h2>
+<ul>
+<li><p><a href="mbr.png"><img src="mbr.png" width="200"></a>Mbr+DPT - Master Boot Record with Disk Partitions Table (1983)</p></li>
+<li><p><a href="lnk.png"><img src="lnk.png" width="200"></a>Lnk - Shell link [Windows] (1995?)</p></li>
+<li><p><a href="cdix.png"><img src="cdix.png" width="200"></a>Cdix - ClangD Index [Riff] (2018)</p></li>
+<li><p><a href="hex.png"><img src="hex.png" width="200"></a> Hex records - Intel[lec] Hexadecimal object (1973)</p></li>
+<li><p><a href="uf2.png"><img src="uf2.png" width="200"></a> Uf2 - USB Flashing format (2016)</p></li>
+</ul>
+<p>Opcodes:</p>
+<ul>
+<li><a href="x64.png"><img src="x64.png" width="200"></a></li>
+<li><a href="x86.png"><img src="x86.png" width="200"></a></li>
+</ul>
+<h2 id="101">101</h2>
+<p>Dissection with more descriptions, and explanations (my initial style of binary posters).</p>
+<p>source Inkscape SVGs and PoC with their sources are included</p>
+<p><a href="pe101/README.md">PE 101</a></p>
+<a href="pe101/README.md">
+<img src="pe101/pe101l.png" width="300">
+<img src="pe101/pe101-64.png" width="300"></a>
+
+<h3 id="others-2">Others</h3>
+<p><a href="elf101/elf101.pdf"><img src="ELF101.png" width="300"></a> <a href="zip101/zip101.pdf"><img src="ZIP101.png" width="300"></a> <a href="macho101/macho101.pdf"><img src="Mach-O101.png" width="300"></a> <a href="class101/class101.pdf"><img src="CLASS101.png" width="300"></a> <a href="pdf101/pdf101.pdf"><img src="PDF101.png" width="300"></a> <a href="com101/com101.pdf"><img src="COM101.png" width="300"></a> <a href="wav101/wav101.pdf"><img src="WAV101.png" width="300"></a></p>
+<h2 id="structures">Structures</h2>
+<p>A layout of the various format's structures</p>
+<p><a href="pe102/pe102.pdf"><img src="PE102.png" width="300"></a></p>
+<h1 id="opcodes-tables">Opcodes' tables</h1>
+<p>Available in compact</p>
+<a href="opcodes_tables_complete.pdf">
+    <img src="DVM.png" width="300">
+    <img src="JVM.png" width="300">
+    <img src="DotNet.png" width="300">
+</a>
+
+<p>or 'with descriptions' formats</p>
+<a href="opcodes_tables_compact.pdf">
+    <img src="DVMFull.jpg" width="400">
+    <img src="JVMFull.png" width="400">
+    <img src="DotNetFull.jpg" width="400">
+</a>
+
+<hr />
+<h2 id="cryptography">Cryptography</h2>
+<p>Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....</p>
+<p><a href="CryptoModes.png"><img src="CryptoModes.png" width="200"></a></p>
+<!-- pandoc -s -f gfm -t html pics.md -o pics.html -->
+</body>
+</html>
