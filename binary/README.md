@@ -87,6 +87,7 @@ Containers:
 
 ## Images
 - <a href="PNG.png">Png - Portable Network graphics (1996)</a>
+  - <a href="pngplus.png">Png Plus: a PNG with OLE chunks, by Microsoft Picture It!</a>
 - <a href="JPG.png">Jpeg (JFIF) - Joint Photographic Experts Group - File Interchange Format (1992)</a>
 - <a href="dicom.png">Dicom - Digital Imaging and Communications in Medicine (1985)</a>
 - <a href="psd.png">Psd - PhotoShop Document (1990)</a>
@@ -238,6 +239,11 @@ Opcodes:
 - <a href="x64.png">x64</a>
 - <a href="x86.png">x86</a>
 
+## Weird files
+
+<a href="unidoom.png">Universal Doom by Robert Xiao: functional DOS (Dos4/GW) and Portable Executable.</a>
+
+<a href="zippng.png">A ZIP/PNG polyglot (sharing the deflate data) by Gynvael Coldwind.</a>
 
 ## 101
 
