@@ -166,6 +166,7 @@ Gif - Graphics Interchange Format (1987)
 - <a href="7zip.png"><img src="7zip.png" width="200"></a>7zip (1999)
 - <a href="xz.png"><img src="xz.png" width="200"></a>Xz (2009)
 
+- <a href="mscompress.png"><img src="mscompress.png" width="200"></a>Microsoft Compress (1990)
 - <a href="cab.png"><img src="cab.png" width="200"></a>Cab - Microsoft Cabinet File (Mscf) (1995?)
 - <a href="rpm.png"><img src="rpm.png" width="200"></a>Rpm - Redhat/RPM Package Manager (1997)
 
@@ -207,7 +208,8 @@ Multiplan - Excel:
   - <a href="biff2.png"><img src="biff2.png" width="200"></a>v2: v2, 1989 (raw)
   - <a href="biff8.png"><img src="biff8.png" width="200"></a>v8: 97-2003, 1998-2004 [CFB]
 
-- <a href="chm.png"><img src="chm.png" width="200"></a>CHM - Compiled HTML help - Info-Tech Storage Format (1997)
+- <a href="winhelp.png"><img src="winhelp.png" width="200"></a>Hlp - WinHelp (1990)
+- <a href="chm.png"><img src="chm.png" width="200"></a>Chm - Compiled HTML help - Info-Tech Storage Format (1997)
 - <a href="one.png"><img src="one.png" width="200"></a>One - One Note (2014-)
 
 - Wmf - Windows Metafile Format (1992)

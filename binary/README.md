@@ -158,6 +158,7 @@ Containers:
 - <a href="7zip.png">7zip (1999)</a>
 - <a href="xz.png">Xz (2009)</a>
 
+- <a href="mscompress.png">Microsoft Compress (1990)</a>
 - <a href="cab.png">Cab - Microsoft Cabinet File (Mscf) (1995?)</a>
 - <a href="rpm.png">Rpm - Redhat/RPM Package Manager (1997)</a>
 
@@ -199,6 +200,7 @@ Multiplan - Excel:
   - <a href="biff2.png">v2: v2, 1989 (raw)</a>
   - <a href="biff8.png">v8: 97-2003, 1998-2004 [CFB]</a>
 
+- <a href="winhelp.png">Hlp - WinHelp (1990)</a>
 - <a href="chm.png">CHM - Compiled HTML help - Info-Tech Storage Format (1997)</a>
 - <a href="one.png">One - One Note (2014-)</a>
 
