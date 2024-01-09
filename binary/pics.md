@@ -198,7 +198,7 @@ Wad - Where's all the data? (1993)
 
 - Microsoft Office
   - <a href="cfb.png"><img src="cfb.png" width="200"></a>Msi - Microsoft Installer [CFB]
-  - <a href="wordml.png"><img src="wordml.png" width="200"></a>Docm - WordML/WordProcessingML (Microsoft Office XML format) - XML (2002
+  - <a href="wordml.png"><img src="wordml.png" width="200"></a>Docm - WordML/WordProcessingML (Microsoft Office XML format) - XML (2002)
   - <a href="activemime.png"><img src="activemime.png" width="200"></a>ActiveMime - MSO XML Bindata
   - <a href="docx.png"><img src="docx.png" width="200"></a>Docx - Doc XML (Office Open XML) - ZIP+XMLs (2006)
 
@@ -253,6 +253,9 @@ Opcodes:
 - <a href="x86.png"><img src="x86.png" width="200"></a>
 
 ## Weird files
+
+A polymock header: a file with many mock formats signatures.</br>
+<a href="polymock.png"><img src="polymock.png" width="200"></a>
 
 Universal Doom by Robert Xiao: functional DOS (Dos4/GW) and Portable Executable.</br>
 <a href="unidoom.png"><img src="unidoom.png" width="200"></a>
