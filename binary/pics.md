@@ -165,6 +165,7 @@ Gif - Graphics Interchange Format (1987)
   - <a href="lzma_eos.png"><img src="lzma_eos.png" width="300"></a>with End of Stream marker
 
 - <a href="7zip.png"><img src="7zip.png" width="200"></a>7zip (1999)
+- <a href="xar.png"><img src="xar.png" width="200"></a>Xar (2007)
 - <a href="xz.png"><img src="xz.png" width="200"></a>Xz (2009)
 
 - <a href="mscompress.png"><img src="mscompress.png" width="200"></a>Microsoft Compress (1990)

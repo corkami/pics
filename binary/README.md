@@ -157,6 +157,7 @@ Containers:
   - <a href="lzma_eos.png">with End of Stream marker</a>
 
 - <a href="7zip.png">7zip (1999)</a>
+- <a href="xar.png">Xar (2007)</a>
 - <a href="xz.png">Xz (2009)</a>
 
 - <a href="mscompress.png">Microsoft Compress (1990)</a>
