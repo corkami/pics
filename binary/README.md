@@ -151,6 +151,8 @@ Containers:
   - <a href="cpio_ascii.png">ASCII</a>
 
 - <a href="ZIP.png">Zip - PkZip (1989)</a>
+  - <a href="crx.png">Crx - Chrome extension (2017)</a>
+
 
 - Lzma - Lempel-Ziv-Markov chain algorithm (1998)
   - <a href="lzma.png">Lzma</a>

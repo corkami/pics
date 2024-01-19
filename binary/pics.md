@@ -159,6 +159,7 @@ Gif - Graphics Interchange Format (1987)
   - <a href="cpio_ascii.png"><img src="cpio_ascii.png" width="200"></a>ASCII
 
 - <a href="ZIP.png"><img src="ZIP.png" width="200"></a>Zip - PkZip (1989)
+  - <a href="crx.png"><img src="crx.png" width="200"></a>Crx - Chrome extension (2017)
 
 - Lzma - Lempel-Ziv-Markov chain algorithm (1998)
   - <a href="lzma.png"><img src="lzma.png" width="300"></a>
