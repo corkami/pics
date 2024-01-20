@@ -243,6 +243,7 @@ Multiplan - Excel:
 
 ### Serialization
 - <a href="asn1.png">ASN.1 - Abstract Syntax Notation One (1984)</a>
+- <a href="bplist.png">Bplist - Binary property list (2000)</a>
 - <a href="protobuf.png">Protobuf - Protocol buffers (2001)</a>
 
 ### Opcodes
