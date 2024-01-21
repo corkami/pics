@@ -87,6 +87,7 @@ Containers:
 - <a href="wasm.png">Wasm - WebAssembly (2017)</a>
 
 ## Images
+- <a href="bpg.png">Bpg - Better/Bellard Portable Graphics (2014)</a>
 - <a href="PNG.png">Png - Portable Network graphics (1996)</a>
   - <a href="pngplus.png">Png Plus: a PNG with OLE chunks, by Microsoft Picture It!</a>
 - <a href="JPG.png">Jpeg (JFIF) - Joint Photographic Experts Group - File Interchange Format (1992)</a>
