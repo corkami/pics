@@ -187,9 +187,9 @@ Wad - Where's all the data? (1993)
 - <a href="wad.png"><img src="wad.png" width="300"></a>(in Doom)
 
 
-- Zstd - Zstandard (2015)
-  - <a href="zstd.png"><img src="zstd.png" width="300"></a>
-  - <a href="zstd_skip.png"><img src="zstd_skip.png" width="300"></a>w/ Skippable frame
+Zstd - Zstandard (2015)
+- <a href="zstd.png"><img src="zstd.png" width="300"></a>
+- <a href="zstd_skip.png"><img src="zstd_skip.png" width="300"></a>w/ Skippable frame
 
 - <a href="lz4.png"><img src="lz4.png" width="300"></a>LZ4 (2011)
 
@@ -239,6 +239,19 @@ Multiplan - Excel:
 - <a href="tiff_exif.png"><img src="tiff_exif.png" width="200"></a>Exif - Exchangeable Image File Format (1995)
 - <a href="xmp.png"><img src="xmp.png" width="200"></a>XMP - Extensible Metadata Platform (2001)
 
+## Serialization
+- <a href="asn1.png"><img src="asn1.png" width="200"></a>ASN.1 - Abstract Syntax Notation One (1984)
+- <a href="bplist.png"><img src="bplist.png" width="200"></a>Bplist - Binary property list (2000)
+- <a href="protobuf.png"><img src="protobuf.png" width="200"></a>Protobuf - Protocol buffers (2001)
+
+## Vector Fonts
+- <a href="otf.png"><img src="otf.png" width="200"></a>OTF - OpenType Font Format (1996)
+- <a href="ttf.png"><img src="ttf.png" width="200"></a>TTF - TrueType Font (1991)
+  - <a href="ttf-loca1.png"><img src="ttf-loca1.png" width="200"></a>with a Location Table v1
+  - <a href="ttf-loca2.png"><img src="ttf-loca2.png" width="200"></a>with a Location Table v2
+- <a href="woff.png"><img src="woff.png" width="200"></a>Woff - Web Open Font Format (2012)
+  - <a href="woff2.png"><img src="woff2.png" width="200"></a>Woff2 - Web Open Font Format 2.0 (2018)
+
 ## Others
 - <a href="mbr.png"><img src="mbr.png" width="200"></a>Mbr+DPT - Master Boot Record with Disk Partitions Table (1983)
 
@@ -248,12 +261,8 @@ Multiplan - Excel:
 - <a href="hex.png"><img src="hex.png" width="200"></a> Hex records - Intel[lec] Hexadecimal object (1973)
 - <a href="uf2.png"><img src="uf2.png" width="200"></a> Uf2 - USB Flashing format (2016)
 
-### Serialization
-- <a href="asn1.png"><img src="asn1.png" width="200"></a>ASN.1 - Abstract Syntax Notation One (1984)
-- <a href="bplist.png"><img src="bplist.png" width="200"></a>Bplist - Binary property list (2000)
-- <a href="protobuf.png"><img src="protobuf.png" width="200"></a>Protobuf - Protocol buffers (2001)
 
-### Opcodes
+## Opcodes
 - <a href="x64.png"><img src="x64.png" width="200"></a>
 - <a href="x86.png"><img src="x86.png" width="200"></a>
 

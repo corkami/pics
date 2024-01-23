@@ -140,7 +140,6 @@ Containers:
 
 
 ## Archives
-
 - [Zlib/Deflate/Zip/GZIP?](https://speakerdeck.com/ange/gzip-equals-zip-equals-zlib-equals-deflate)
 - <a href="GZip.png">Gzip - GNU zip (1992)</a>
 
@@ -180,9 +179,9 @@ Wad - Where's all the data? (1993)
 - <a href="wad.png">(in Doom)</a>
 
 
-- Zstd - Zstandard (2015)
-  - <a href="zstd.png">Zstd</a>
-  - <a href="zstd_skip.png">w/ Skippable frame</a>
+Zstd - Zstandard (2015)
+- <a href="zstd.png">Zstd</a>
+- <a href="zstd_skip.png">w/ Skippable frame</a>
 
 - <a href="lz4.png">LZ4 (2011)</a>
 
@@ -232,6 +231,19 @@ Multiplan - Excel:
 - <a href="tiff_exif.png">Exif - Exchangeable Image File Format (1995)</a>
 - <a href="xmp.png">XMP - Extensible Metadata Platform (2001)</a>
 
+## Serialization
+- <a href="asn1.png">ASN.1 - Abstract Syntax Notation One (1984)</a>
+- <a href="bplist.png">Bplist - Binary property list (2000)</a>
+- <a href="protobuf.png">Protobuf - Protocol buffers (2001)</a>
+
+## Vector Fonts
+- <a href="otf.png">OTF - OpenType Font Format (1996)</a>
+- <a href="ttf.png">TTF - TrueType Font (1991)</a>
+  - <a href="ttf-loca1.png">with a Location Table v1</a>
+  - <a href="ttf-loca2.png">with a Location Table v2</a>
+- <a href="woff.png">Woff - Web Open Font Format (2012)</a>
+  - <a href="woff2.png">Woff2 - Web Open Font Format 2.0 (2018)</a>
+
 ## Others
 - <a href="mbr.png">Mbr+DPT - Master Boot Record with Disk Partitions Table (1983)</a>
 
@@ -241,13 +253,7 @@ Multiplan - Excel:
 - <a href="hex.png"> Hex records - Intel[lec] Hexadecimal object (1973)</a>
 - <a href="uf2.png"> Uf2 - USB Flashing format (2016)</a>
 
-
-### Serialization
-- <a href="asn1.png">ASN.1 - Abstract Syntax Notation One (1984)</a>
-- <a href="bplist.png">Bplist - Binary property list (2000)</a>
-- <a href="protobuf.png">Protobuf - Protocol buffers (2001)</a>
-
-### Opcodes
+## Opcodes
 - <a href="x64.png">x64</a>
 - <a href="x86.png">x86</a>
 
