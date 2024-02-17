@@ -257,13 +257,7 @@ Multiplan - Excel:
 - <a href="x64.png">x64</a>
 - <a href="x86.png">x86</a>
 
-## Weird files
-
-<a href="polymock.png">A polymock header: a file with many mock formats signatures.</a>
-
-<a href="unidoom.png">Universal Doom by Robert Xiao: functional DOS (Dos4/GW) and Portable Executable.</a>
-
-<a href="zippng.png">A ZIP/PNG polyglot (sharing the deflate data) by Gynvael Coldwind.</a>
+## [Weird files](weird/)
 
 ## 101
 
