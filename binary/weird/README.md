@@ -12,7 +12,8 @@ by xcellerator: a 512 bytes COM/MBR/PRG/Multiboot/Rar/ZIP/ELF polyglot <!--([`b2
 
 Illustrations for the PoC||GTFO [0x22:11 article](https://github.com/angea/pocorgtfo#0x22).
 
-🖼️[Complete map](janus-complete.pdf)
+- 🖼️[Overview map](janus-map.png)
+- 🖼️[Complete dissection](janus-complete.pdf)
 
 Detailed file types:
 - 🖼️[GNU Multiboot2](janus-gmb.pdf)
